@@ -1,0 +1,525 @@
+ISBN,num_ratings,avg_rating,title,author,year,publisher,Image-URL-M
+0316666343,1295,4.468725868725869,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown",http://images.amazon.com/images/P/0316666343.01.MZZZZZZZ.jpg
+0385504209,883,4.652321630804077,The Da Vinci Code,Dan Brown,2003,Doubleday,http://images.amazon.com/images/P/0385504209.01.MZZZZZZZ.jpg
+0312195516,723,4.334716459197787,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,http://images.amazon.com/images/P/0312195516.01.MZZZZZZZ.jpg
+0142001740,615,4.219512195121951,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,http://images.amazon.com/images/P/0142001740.01.MZZZZZZZ.jpg
+0446672211,585,4.105982905982906,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,http://images.amazon.com/images/P/0446672211.01.MZZZZZZZ.jpg
+059035342X,571,4.900175131348512,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books,http://images.amazon.com/images/P/059035342X.01.MZZZZZZZ.jpg
+0452282152,526,4.218631178707224,Girl with a Pearl Earring,Tracy Chevalier,2001,Plume Books,http://images.amazon.com/images/P/0452282152.01.MZZZZZZZ.jpg
+0743418174,470,4.040425531914893,Good in Bed,Jennifer Weiner,2002,Washington Square Press,http://images.amazon.com/images/P/0743418174.01.MZZZZZZZ.jpg
+0786868716,427,4.543325526932084,The Five People You Meet in Heaven,Mitch Albom,2003,Hyperion,http://images.amazon.com/images/P/0786868716.01.MZZZZZZZ.jpg
+0316769487,403,4.635235732009925,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown",http://images.amazon.com/images/P/0316769487.01.MZZZZZZZ.jpg
+0385484518,391,4.406649616368286,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday,http://images.amazon.com/images/P/0385484518.01.MZZZZZZZ.jpg
+0446310786,389,4.920308483290489,To Kill a Mockingbird,Harper Lee,1988,Little Brown &amp; Company,http://images.amazon.com/images/P/0446310786.01.MZZZZZZZ.jpg
+0439064872,351,4.72934472934473,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,2000,Scholastic,http://images.amazon.com/images/P/0439064872.01.MZZZZZZZ.jpg
+043935806X,334,5.57185628742515,Harry Potter and the Order of the Phoenix (Book 5),J. K. Rowling,2003,Scholastic,http://images.amazon.com/images/P/043935806X.01.MZZZZZZZ.jpg
+0345342968,321,4.40809968847352,Fahrenheit 451,RAY BRADBURY,1987,Del Rey,http://images.amazon.com/images/P/0345342968.01.MZZZZZZZ.jpg
+0060938455,321,4.037383177570093,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2002,Perennial,http://images.amazon.com/images/P/0060938455.01.MZZZZZZZ.jpg
+0380789035,302,4.006622516556291,American Gods,Neil Gaiman,2002,HarperTorch,http://images.amazon.com/images/P/0380789035.01.MZZZZZZZ.jpg
+0842329129,297,4.026936026936027,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,http://images.amazon.com/images/P/0842329129.01.MZZZZZZZ.jpg
+0060392452,283,4.3568904593639575,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,2002,Regan Books,http://images.amazon.com/images/P/0060392452.01.MZZZZZZZ.jpg
+0345339681,281,5.00711743772242,The Hobbit : The Enchanting Prelude to The Lord of the Rings,J.R.R. TOLKIEN,1986,Del Rey,http://images.amazon.com/images/P/0345339681.01.MZZZZZZZ.jpg
+0684874350,269,4.115241635687732,ANGELA'S ASHES,Frank McCourt,1996,Scribner,http://images.amazon.com/images/P/0684874350.01.MZZZZZZZ.jpg
+0805063897,267,4.142322097378277,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2002,Owl Books,http://images.amazon.com/images/P/0805063897.01.MZZZZZZZ.jpg
+1558743669,262,4.091603053435114,A Child Called It: One Child's Courage to Survive,Dave Pelzer,1995,Health Communications,http://images.amazon.com/images/P/1558743669.01.MZZZZZZZ.jpg
+0345339703,257,4.505836575875486,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J.R.R. TOLKIEN,1986,Del Rey,http://images.amazon.com/images/P/0345339703.01.MZZZZZZZ.jpg
+0060959037,253,4.450592885375494,Prodigal Summer: A Novel,Barbara Kingsolver,2001,Perennial,http://images.amazon.com/images/P/0060959037.01.MZZZZZZZ.jpg
+0449005615,246,4.138211382113822,Seabiscuit: An American Legend,LAURA HILLENBRAND,2002,Ballantine Books,http://images.amazon.com/images/P/0449005615.01.MZZZZZZZ.jpg
+0385486804,244,4.229508196721311,Into the Wild,Jon Krakauer,1997,Anchor,http://images.amazon.com/images/P/0385486804.01.MZZZZZZZ.jpg
+0060915544,244,4.086065573770492,The Bean Trees,Barbara Kingsolver,1989,Perennial,http://images.amazon.com/images/P/0060915544.01.MZZZZZZZ.jpg
+0380789019,237,4.265822784810126,Neverwhere,Neil Gaiman,1998,Avon,http://images.amazon.com/images/P/0380789019.01.MZZZZZZZ.jpg
+0439136369,226,5.345132743362832,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,2001,Scholastic,http://images.amazon.com/images/P/0439136369.01.MZZZZZZZ.jpg
+0440212561,216,4.171296296296297,Outlander,DIANA GABALDON,1992,Dell,http://images.amazon.com/images/P/0440212561.01.MZZZZZZZ.jpg
+0385505833,210,4.252380952380952,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,http://images.amazon.com/images/P/0385505833.01.MZZZZZZZ.jpg
+0767902521,205,4.2439024390243905,A Walk in the Woods: Rediscovering America on the Appalachian Trail (Official Guides to the Appalachian Trail),Bill Bryson,1999,Broadway Books,http://images.amazon.com/images/P/0767902521.01.MZZZZZZZ.jpg
+0439136350,197,6.467005076142132,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,1999,Scholastic,http://images.amazon.com/images/P/0439136350.01.MZZZZZZZ.jpg
+0812550706,195,5.302564102564102,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,1994,Tor Books,http://images.amazon.com/images/P/0812550706.01.MZZZZZZZ.jpg
+0439139597,194,6.541237113402062,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,2000,Scholastic,http://images.amazon.com/images/P/0439139597.01.MZZZZZZZ.jpg
+0439139600,193,5.103626943005182,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,2002,Scholastic Paperbacks,http://images.amazon.com/images/P/0439139600.01.MZZZZZZZ.jpg
+0451524934,192,4.614583333333333,1984,George Orwell,1990,Signet Book,http://images.amazon.com/images/P/0451524934.01.MZZZZZZZ.jpg
+0140067477,189,4.296296296296297,The Tao of Pooh,Benjamin Hoff,1983,Penguin Books,http://images.amazon.com/images/P/0140067477.01.MZZZZZZZ.jpg
+0553272535,181,4.337016574585635,Night,Elie Wiesel,1982,Bantam Books,http://images.amazon.com/images/P/0553272535.01.MZZZZZZZ.jpg
+0684801523,179,4.553072625698324,The Great Gatsby,F. Scott Fitzgerald,1995,Scribner,http://images.amazon.com/images/P/0684801523.01.MZZZZZZZ.jpg
+0440219078,178,4.915730337078652,The Giver (21st Century Reference),LOIS LOWRY,1994,Laure Leaf,http://images.amazon.com/images/P/0440219078.01.MZZZZZZZ.jpg
+0345339711,177,4.27683615819209,"The Two Towers (The Lord of the Rings, Part 2)",J.R.R. TOLKIEN,1986,Del Rey,http://images.amazon.com/images/P/0345339711.01.MZZZZZZZ.jpg
+0446532231,175,4.24,"Dude, Where's My Country?",Michael Moore,2003,Warner Books,http://images.amazon.com/images/P/0446532231.01.MZZZZZZZ.jpg
+0345339738,173,4.184971098265896,"The Return of the King (The Lord of the Rings, Part 3)",J.R.R. TOLKIEN,1986,Del Rey,http://images.amazon.com/images/P/0345339738.01.MZZZZZZZ.jpg
+0439064864,170,6.6117647058823525,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,1999,Scholastic,http://images.amazon.com/images/P/0439064864.01.MZZZZZZZ.jpg
+0151008116,170,4.5,Life of Pi,Yann Martel,2002,Harcourt,http://images.amazon.com/images/P/0151008116.01.MZZZZZZZ.jpg
+0142001430,169,4.331360946745562,Year of Wonders,Geraldine Brooks,2002,Penguin Books,http://images.amazon.com/images/P/0142001430.01.MZZZZZZZ.jpg
+0440180295,169,4.094674556213017,Slaughterhouse Five or the Children's Crusade: A Duty Dance With Death,Kurt Vonnegut,1991,Laurel,http://images.amazon.com/images/P/0440180295.01.MZZZZZZZ.jpg
+0441003257,168,4.244047619047619,Good Omens,Neil Gaiman,1996,Ace Books,http://images.amazon.com/images/P/0441003257.01.MZZZZZZZ.jpg
+0590353403,168,6.363095238095238,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,1998,Scholastic,http://images.amazon.com/images/P/0590353403.01.MZZZZZZZ.jpg
+0451526341,164,4.695121951219512,Animal Farm,George Orwell,2004,Signet,http://images.amazon.com/images/P/0451526341.01.MZZZZZZZ.jpg
+0099771519,163,4.3128834355828225,Memoirs of a Geisha Uk,Arthur Golden,0,Trafalgar Square,http://images.amazon.com/images/P/0099771519.01.MZZZZZZZ.jpg
+0553375407,162,4.907407407407407,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,1995,Bantam,http://images.amazon.com/images/P/0553375407.01.MZZZZZZZ.jpg
+0440498058,158,4.550632911392405,A Wrinkle In Time,MADELEINE L'ENGLE,1998,Yearling,http://images.amazon.com/images/P/0440498058.01.MZZZZZZZ.jpg
+0743227441,156,4.756410256410256,The Other Boleyn Girl,Philippa Gregory,2002,Touchstone,http://images.amazon.com/images/P/0743227441.01.MZZZZZZZ.jpg
+0440998050,156,4.243589743589744,A Wrinkle in Time,Madeleine L'Engle,1976,Laure Leaf,http://images.amazon.com/images/P/0440998050.01.MZZZZZZZ.jpg
+0440414806,154,4.2727272727272725,Holes (Yearling Newbery),LOUIS SACHAR,2000,Yearling,http://images.amazon.com/images/P/0440414806.01.MZZZZZZZ.jpg
+0446679593,147,4.197278911564626,Suzanne's Diary for Nicholas,James Patterson,2002,Warner Books,http://images.amazon.com/images/P/0446679593.01.MZZZZZZZ.jpg
+0441172717,146,4.609589041095891,Dune (Remembering Tomorrow),Frank Herbert,1996,ACE Charter,http://images.amazon.com/images/P/0441172717.01.MZZZZZZZ.jpg
+0345391802,145,4.172413793103448,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1995,Ballantine Books,http://images.amazon.com/images/P/0345391802.01.MZZZZZZZ.jpg
+0312990456,142,4.02112676056338,One for the Money (A Stephanie Plum Novel),Janet Evanovich,2003,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312990456.01.MZZZZZZZ.jpg
+0061097314,140,4.042857142857143,The Bean Trees,Barbara Kingsolver,1998,HarperTorch,http://images.amazon.com/images/P/0061097314.01.MZZZZZZZ.jpg
+0553296981,139,4.820143884892087,Anne Frank: The Diary of a Young Girl,ANNE FRANK,1993,Bantam,http://images.amazon.com/images/P/0553296981.01.MZZZZZZZ.jpg
+038549081X,136,4.117647058823529,The Handmaid's Tale : A Novel,Margaret Atwood,1998,Anchor,http://images.amazon.com/images/P/038549081X.01.MZZZZZZZ.jpg
+0671727796,136,4.3088235294117645,The Color Purple,Alice Walker,1990,Pocket,http://images.amazon.com/images/P/0671727796.01.MZZZZZZZ.jpg
+0451169530,131,4.534351145038168,The Stand: Complete and Uncut,Stephen King,1991,Signet Book,http://images.amazon.com/images/P/0451169530.01.MZZZZZZZ.jpg
+0142004235,131,4.549618320610687,East of Eden (Oprah's Book Club),John Steinbeck,2003,Penguin Books,http://images.amazon.com/images/P/0142004235.01.MZZZZZZZ.jpg
+0380813815,131,4.091603053435114,"Lamb : The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,2003,Perennial,http://images.amazon.com/images/P/0380813815.01.MZZZZZZZ.jpg
+0330332775,130,4.130769230769231,Bridget Jones's Diary,Helen Fielding,1997,Picador (UK),http://images.amazon.com/images/P/0330332775.01.MZZZZZZZ.jpg
+0553250531,130,4.361538461538461,The Valley of Horses,JEAN M. AUEL,1984,Bantam,http://images.amazon.com/images/P/0553250531.01.MZZZZZZZ.jpg
+0441790348,130,4.615384615384615,Stranger in a Strange Land (Remembering Tomorrow),Robert A. Heinlein,1995,ACE Charter,http://images.amazon.com/images/P/0441790348.01.MZZZZZZZ.jpg
+0064400557,129,4.782945736434108,Charlotte's Web (Trophy Newbery),E. B. White,1974,HarperTrophy,http://images.amazon.com/images/P/0064400557.01.MZZZZZZZ.jpg
+0452269571,128,4.0546875,Bastard Out of Carolina,Dorothy Allison,1993,Plume Books,http://images.amazon.com/images/P/0452269571.01.MZZZZZZZ.jpg
+0440215625,128,4.6328125,Dragonfly in Amber,DIANA GABALDON,1993,Dell,http://images.amazon.com/images/P/0440215625.01.MZZZZZZZ.jpg
+039592720X,127,4.874015748031496,Interpreter of Maladies,Jhumpa Lahiri,1999,Houghton Mifflin Co,http://images.amazon.com/images/P/039592720X.01.MZZZZZZZ.jpg
+0316777730,124,4.419354838709677,Naked,David Sedaris,1998,Back Bay Books,http://images.amazon.com/images/P/0316777730.01.MZZZZZZZ.jpg
+0316693006,122,4.114754098360656,Four Blind Mice,James Patterson,2002,"Little, Brown",http://images.amazon.com/images/P/0316693006.01.MZZZZZZZ.jpg
+0060929871,119,4.554621848739496,Brave New World,Aldous Huxley,1998,Perennial,http://images.amazon.com/images/P/0060929871.01.MZZZZZZZ.jpg
+0394820371,118,4.203389830508475,The Phantom Tollbooth,Norton Juster,1993,Yearling Books,http://images.amazon.com/images/P/0394820371.01.MZZZZZZZ.jpg
+0446520802,116,4.060344827586207,The Notebook,Nicholas Sparks,1996,Warner Books,http://images.amazon.com/images/P/0446520802.01.MZZZZZZZ.jpg
+0380977788,115,4.504347826086956,Coraline,Neil Gaiman,2002,HarperCollins,http://images.amazon.com/images/P/0380977788.01.MZZZZZZZ.jpg
+0385510438,113,4.654867256637168,The Last Juror,John Grisham,2004,Doubleday,http://images.amazon.com/images/P/0385510438.01.MZZZZZZZ.jpg
+0553274295,112,4.410714285714286,Where the Red Fern Grows,Wilson Rawls,1984,Random House Children's Books,http://images.amazon.com/images/P/0553274295.01.MZZZZZZZ.jpg
+0385512104,112,4.017857142857143,The Curious Incident of the Dog in the Night-Time (Today Show Book Club #13),Mark Haddon,2003,Doubleday,http://images.amazon.com/images/P/0385512104.01.MZZZZZZZ.jpg
+0451191145,111,4.252252252252252,Atlas Shrugged,Ayn Rand,1996,Signet Book,http://images.amazon.com/images/P/0451191145.01.MZZZZZZZ.jpg
+0064472272,110,4.118181818181818,"Angus, Thongs and Full-Frontal Snogging: Confessions of Georgia Nicolson",Louise Rennison,2001,HarperTempest,http://images.amazon.com/images/P/0064472272.01.MZZZZZZZ.jpg
+0684833395,108,4.037037037037037,Catch 22,Joseph Heller,1996,Simon &amp; Schuster,http://images.amazon.com/images/P/0684833395.01.MZZZZZZZ.jpg
+0451163966,108,4.25,One Flew Over the Cuckoo's Nest,Ken Kesey,1989,Signet Book,http://images.amazon.com/images/P/0451163966.01.MZZZZZZZ.jpg
+034536676X,108,4.472222222222222,The World According to Garp,John Irving,1994,Ballantine Books,http://images.amazon.com/images/P/034536676X.01.MZZZZZZZ.jpg
+0060096195,107,4.02803738317757,The Boy Next Door,Meggin Cabot,2002,Avon Trade,http://images.amazon.com/images/P/0060096195.01.MZZZZZZZ.jpg
+1573229571,106,4.179245283018868,About a Boy (Movie Tie-In),Nick Hornby,2002,Riverhead Books,http://images.amazon.com/images/P/1573229571.01.MZZZZZZZ.jpg
+1573225517,105,4.133333333333334,High Fidelity,Nick Hornby,1996,Riverhead Books,http://images.amazon.com/images/P/1573225517.01.MZZZZZZZ.jpg
+043936213X,104,4.6923076923076925,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,2001,Scholastic,http://images.amazon.com/images/P/043936213X.01.MZZZZZZZ.jpg
+0312265859,104,4.1923076923076925,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,2002,St. Martin's Press,http://images.amazon.com/images/P/0312265859.01.MZZZZZZZ.jpg
+0345444884,103,4.145631067961165,The Talisman,STEPHEN KING,2001,Ballantine Books,http://images.amazon.com/images/P/0345444884.01.MZZZZZZZ.jpg
+0671027344,103,5.194174757281553,The Perks of Being a Wallflower,Stephen Chbosky,1999,MTV,http://images.amazon.com/images/P/0671027344.01.MZZZZZZZ.jpg
+076790592X,101,4.198019801980198,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,2002,Broadway,http://images.amazon.com/images/P/076790592X.01.MZZZZZZZ.jpg
+0553208845,101,4.376237623762377,Siddhartha,Hermann Hesse,1981,Bantam Classics,http://images.amazon.com/images/P/0553208845.01.MZZZZZZZ.jpg
+0140042598,101,4.00990099009901,On the Road,Jack Kerouac,1991,Penguin Books,http://images.amazon.com/images/P/0140042598.01.MZZZZZZZ.jpg
+0060916508,100,4.37,Their Eyes Were Watching God: A Novel,Zora Neale Hurston,1990,Perennial,http://images.amazon.com/images/P/0060916508.01.MZZZZZZZ.jpg
+0679723161,98,4.26530612244898,Lolita (Vintage International),VLADIMIR NABOKOV,1989,Vintage,http://images.amazon.com/images/P/0679723161.01.MZZZZZZZ.jpg
+0446670111,98,4.13265306122449,Einstein's Dreams,Alan Lightman,1994,Warner Books,http://images.amazon.com/images/P/0446670111.01.MZZZZZZZ.jpg
+0670894605,96,5.5,The Secret Life of Bees,Sue Monk Kidd,2002,Viking Books,http://images.amazon.com/images/P/0670894605.01.MZZZZZZZ.jpg
+0312306326,95,4.378947368421053,Visions of Sugar Plums,Janet Evanovich,2002,St. Martin's Press,http://images.amazon.com/images/P/0312306326.01.MZZZZZZZ.jpg
+0894805770,94,4.51063829787234,What to Expect the First Year,Arlene Eisenberg,1989,Workman Publishing,http://images.amazon.com/images/P/0894805770.01.MZZZZZZZ.jpg
+0156007754,91,4.351648351648351,Blindness (Harvest Book),Jose Saramago,1999,Harvest Books,http://images.amazon.com/images/P/0156007754.01.MZZZZZZZ.jpg
+1400032717,91,4.813186813186813,The Curious Incident of the Dog in the Night-Time (Vintage Contemporaries),Mark Haddon,2004,Vintage,http://images.amazon.com/images/P/1400032717.01.MZZZZZZZ.jpg
+0345413369,91,4.230769230769231,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,1998,Del Rey,http://images.amazon.com/images/P/0345413369.01.MZZZZZZZ.jpg
+0441304834,90,4.311111111111111,Guilty Pleasures (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,1995,Ace Books,http://images.amazon.com/images/P/0441304834.01.MZZZZZZZ.jpg
+0440204887,90,4.222222222222222,Illusions: The Adventures of a Reluctant Messiah,Richard Bach,1994,Dell Publishing Company,http://images.amazon.com/images/P/0440204887.01.MZZZZZZZ.jpg
+0805062971,89,4.775280898876405,Fight Club,Chuck Palahniuk,1999,Owl Books,http://images.amazon.com/images/P/0805062971.01.MZZZZZZZ.jpg
+014038572X,89,4.46067415730337,The Outsiders (Now in Speak!),S. E. Hinton,1997,Puffin Books,http://images.amazon.com/images/P/014038572X.01.MZZZZZZZ.jpg
+0552996009,87,4.2298850574712645,Notes From a Small Planet,Bill Bryson,0,Bantam Doubleday Dell,http://images.amazon.com/images/P/0552996009.01.MZZZZZZZ.jpg
+0689817851,87,4.7701149425287355,Go Ask Alice,Anonymous,1998,Simon Pulse,http://images.amazon.com/images/P/0689817851.01.MZZZZZZZ.jpg
+0684853515,87,4.448275862068965,Hearts In Atlantis : New Fiction,Stephen King,1999,Scribner,http://images.amazon.com/images/P/0684853515.01.MZZZZZZZ.jpg
+0553573403,87,4.2988505747126435,"A Game of Thrones (A Song of Ice and Fire, Book 1)",George R.R. Martin,1997,Spectra Books,http://images.amazon.com/images/P/0553573403.01.MZZZZZZZ.jpg
+0449911519,86,4.732558139534884,Secret History : A Novel,DONNA TARTT,1996,Ballantine Books,http://images.amazon.com/images/P/0449911519.01.MZZZZZZZ.jpg
+0553213105,85,4.1647058823529415,Pride and Prejudice,Jane Austen,1981,Bantam,http://images.amazon.com/images/P/0553213105.01.MZZZZZZZ.jpg
+0446365386,85,4.435294117647059,Gone with the Wind,Margaret Mitchell,1993,Warner Books,http://images.amazon.com/images/P/0446365386.01.MZZZZZZZ.jpg
+0312263120,85,4.011764705882353,Digital Fortress : A Thriller,Dan Brown,2000,St. Martin's Griffin,http://images.amazon.com/images/P/0312263120.01.MZZZZZZZ.jpg
+0671776134,84,4.559523809523809,Plain Truth,Jodi Picoult,2001,Washington Square Press,http://images.amazon.com/images/P/0671776134.01.MZZZZZZZ.jpg
+0688170528,83,4.253012048192771,The Pact: A Love Story,Jodi Picoult,1999,Quill,http://images.amazon.com/images/P/0688170528.01.MZZZZZZZ.jpg
+0375400117,83,4.710843373493976,Memoirs of a Geisha,Arthur Golden,1997,Alfred A. Knopf,http://images.amazon.com/images/P/0375400117.01.MZZZZZZZ.jpg
+0060929790,82,4.121951219512195,One Hundred Years of Solitude,Gabriel Garcia Marquez,1998,Perennial,http://images.amazon.com/images/P/0060929790.01.MZZZZZZZ.jpg
+0446391301,80,4.0875,Geek Love,Katherine Dunn,1993,Warner Books,http://images.amazon.com/images/P/0446391301.01.MZZZZZZZ.jpg
+0064401847,80,4.025,Bridge to Terabithia,Katherine Paterson,1987,HarperTrophy,http://images.amazon.com/images/P/0064401847.01.MZZZZZZZ.jpg
+0316603570,80,4.0375,3rd Degree,James Patterson,2004,"Little, Brown",http://images.amazon.com/images/P/0316603570.01.MZZZZZZZ.jpg
+0684853507,79,4.430379746835443,BAG OF BONES : A NOVEL,Stephen King,1998,Scribner,http://images.amazon.com/images/P/0684853507.01.MZZZZZZZ.jpg
+0451166582,79,4.050632911392405,The Eyes of the Dragon,Stephen King,2001,Signet Book,http://images.amazon.com/images/P/0451166582.01.MZZZZZZZ.jpg
+0451191153,79,4.10126582278481,The Fountainhead,Ayn Rand,1996,New American Library,http://images.amazon.com/images/P/0451191153.01.MZZZZZZZ.jpg
+0156528207,79,5.7974683544303796,The Little Prince,Antoine de Saint-ExupÃ©ry,1968,Harcourt,http://images.amazon.com/images/P/0156528207.01.MZZZZZZZ.jpg
+0060930187,79,4.265822784810126,The Bell Jar : A Novel (Perennial Classics),Sylvia Plath,2000,Perennial,http://images.amazon.com/images/P/0060930187.01.MZZZZZZZ.jpg
+0375504613,78,4.346153846153846,A Short Guide to a Happy Life,ANNA QUINDLEN,2000,Random House,http://images.amazon.com/images/P/0375504613.01.MZZZZZZZ.jpg
+0064471047,78,4.6923076923076925,"The Lion, the Witch, and the Wardrobe (The Chronicles of Narnia, Book 2)",C. S. Lewis,1994,HarperCollins,http://images.amazon.com/images/P/0064471047.01.MZZZZZZZ.jpg
+1931561648,75,4.2,The Time Traveler's Wife (Today Show Book Club #15),Audrey Niffenegger,2003,MacAdam/Cage Publishing,http://images.amazon.com/images/P/1931561648.01.MZZZZZZZ.jpg
+0679457526,75,4.8,Into Thin Air : A Personal Account of the Mount Everest Disaster,JON KRAKAUER,1997,Villard,http://images.amazon.com/images/P/0679457526.01.MZZZZZZZ.jpg
+0312265840,75,4.493333333333333,Seven Up (A Stephanie Plum Novel),Janet Evanovich,2001,St. Martin's Press,http://images.amazon.com/images/P/0312265840.01.MZZZZZZZ.jpg
+0312199430,74,4.148648648648648,One Thousand White Women : The Journals of May Dodd: A Novel,Jim Fergus,1999,St. Martin's Griffin,http://images.amazon.com/images/P/0312199430.01.MZZZZZZZ.jpg
+0671729411,74,4.04054054054054,Flowers In The Attic (Dollanganger),V.C. Andrews,1990,Pocket,http://images.amazon.com/images/P/0671729411.01.MZZZZZZZ.jpg
+037541309X,74,4.783783783783784,Balzac and the Little Chinese Seamstress,Dai Sijie,2001,Alfred A. Knopf,http://images.amazon.com/images/P/037541309X.01.MZZZZZZZ.jpg
+0385498721,74,4.337837837837838,Survivor : A Novel,CHUCK PALAHNIUK,2000,Anchor,http://images.amazon.com/images/P/0385498721.01.MZZZZZZZ.jpg
+067168390X,74,4.108108108108108,Lonesome Dove,Larry McMurtry,1988,Pocket,http://images.amazon.com/images/P/067168390X.01.MZZZZZZZ.jpg
+1573228214,73,4.191780821917808,High Fidelity,Nick Hornby,2000,Riverhead Books,http://images.amazon.com/images/P/1573228214.01.MZZZZZZZ.jpg
+0385729332,73,4.561643835616438,The Sisterhood of the Traveling Pants,Ann Brashares,2001,Delacorte Press,http://images.amazon.com/images/P/0385729332.01.MZZZZZZZ.jpg
+0877017883,72,6.041666666666667,Griffin &amp; Sabine: An Extraordinary Correspondence,Nick Bantock,1991,Chronicle Books,http://images.amazon.com/images/P/0877017883.01.MZZZZZZZ.jpg
+044022425X,71,4.056338028169014,Drums of Autumn,DIANA GABALDON,1997,Dell,http://images.amazon.com/images/P/044022425X.01.MZZZZZZZ.jpg
+0385474547,71,4.23943661971831,Things Fall Apart : A Novel,CHINUA ACHEBE,1994,Anchor,http://images.amazon.com/images/P/0385474547.01.MZZZZZZZ.jpg
+0618002219,70,5.014285714285714,The Hobbit: or There and Back Again,J.R.R. Tolkien,1999,Houghton Mifflin Company,http://images.amazon.com/images/P/0618002219.01.MZZZZZZZ.jpg
+014131088X,70,4.785714285714286,Speak,Laurie Halse Anderson,2001,Speak,http://images.amazon.com/images/P/014131088X.01.MZZZZZZZ.jpg
+0805063889,68,4.867647058823529,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,2001,Metropolitan Books,http://images.amazon.com/images/P/0805063889.01.MZZZZZZZ.jpg
+0894803204,68,4.294117647058823,The Book of Questions,Gregory Stock,1987,Workman Publishing,http://images.amazon.com/images/P/0894803204.01.MZZZZZZZ.jpg
+0812548051,68,4.338235294117647,"Wizard's First Rule (Sword of Truth, Book 1)",Terry Goodkind,1997,Tor Fantasy,http://images.amazon.com/images/P/0812548051.01.MZZZZZZZ.jpg
+0679432477,68,4.529411764705882,Empire Falls,RICHARD RUSSO,2001,Knopf,http://images.amazon.com/images/P/0679432477.01.MZZZZZZZ.jpg
+0684801221,67,4.014925373134329,OLD MAN AND THE SEA,Ernest Hemingway,1995,Scribner,http://images.amazon.com/images/P/0684801221.01.MZZZZZZZ.jpg
+0064471101,67,4.82089552238806,The Magician's Nephew (rack) (Narnia),C. S. Lewis,2002,HarperCollins,http://images.amazon.com/images/P/0064471101.01.MZZZZZZZ.jpg
+0393317552,67,4.522388059701493,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,1999,W. W. Norton &amp; Company,http://images.amazon.com/images/P/0393317552.01.MZZZZZZZ.jpg
+0060920084,67,4.08955223880597,The Lost Continent: Travels in Small-Town America,Bill Bryson,1990,Perennial,http://images.amazon.com/images/P/0060920084.01.MZZZZZZZ.jpg
+0375725849,66,4.363636363636363,Perfume: The Story of a Murderer (Vintage International),Patrick Suskind,2001,Vintage Books USA,http://images.amazon.com/images/P/0375725849.01.MZZZZZZZ.jpg
+052594527X,66,4.212121212121212,Girl With a Pearl Earring,Tracy Chevalier,1999,Dutton Books,http://images.amazon.com/images/P/052594527X.01.MZZZZZZZ.jpg
+0670868361,65,4.676923076923077,Desperation,Stephen King,1996,Viking Books,http://images.amazon.com/images/P/0670868361.01.MZZZZZZZ.jpg
+076790382X,65,4.3538461538461535,I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away,Bill Bryson,2000,Broadway Books,http://images.amazon.com/images/P/076790382X.01.MZZZZZZZ.jpg
+0440235502,65,4.1692307692307695,October Sky: A Memoir,Homer Hickam,1999,Dell,http://images.amazon.com/images/P/0440235502.01.MZZZZZZZ.jpg
+0449911446,64,4.078125,Before Women Had Wings (Ballantine Reader's Circle),Connie May Fowler,1997,Ballantine Books,http://images.amazon.com/images/P/0449911446.01.MZZZZZZZ.jpg
+3492045170,64,4.21875,Stupid White Men. Eine Abrechnung mit dem Amerika unter George W. Bush,Michael Moore,2003,Piper,http://images.amazon.com/images/P/3492045170.01.MZZZZZZZ.jpg
+0446677450,64,5.359375,"Rich Dad, Poor Dad: What the Rich Teach Their Kids About Money--That the Poor and Middle Class Do Not!",Robert T. Kiyosaki,2000,Warner Books,http://images.amazon.com/images/P/0446677450.01.MZZZZZZZ.jpg
+0441000916,64,4.515625,The Laughing Corpse (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,1994,Ace Books,http://images.amazon.com/images/P/0441000916.01.MZZZZZZZ.jpg
+0811825558,64,4.8125,The Worst-Case Scenario Survival Handbook,Joshua Piven,1999,Chronicle Books,http://images.amazon.com/images/P/0811825558.01.MZZZZZZZ.jpg
+0345350685,64,4.03125,The Autobiography of Malcolm X,Malcolm X,1989,Ballantine Books,http://images.amazon.com/images/P/0345350685.01.MZZZZZZZ.jpg
+0670839531,63,4.126984126984127,Needful Things: The Last Castle Rock Story,Stephen King,1991,Viking Books,http://images.amazon.com/images/P/0670839531.01.MZZZZZZZ.jpg
+0894808249,63,5.238095238095238,All I Need to Know I Learned from My Cat,Suzy Becker,1990,Workman Publishing,http://images.amazon.com/images/P/0894808249.01.MZZZZZZZ.jpg
+0618002227,63,6.2063492063492065,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J. R. R. Tolkien,1999,Houghton Mifflin Company,http://images.amazon.com/images/P/0618002227.01.MZZZZZZZ.jpg
+006000438X,63,4.063492063492063,The Death of Vishnu: A Novel,Manil Suri,2002,Perennial,http://images.amazon.com/images/P/006000438X.01.MZZZZZZZ.jpg
+0316779237,63,4.222222222222222,Holidays on Ice : Stories,David Sedaris,1998,Back Bay Books,http://images.amazon.com/images/P/0316779237.01.MZZZZZZZ.jpg
+0316780812,63,4.063492063492063,Sea Glass: A Novel,Anita Shreve,2002,"Little, Brown",http://images.amazon.com/images/P/0316780812.01.MZZZZZZZ.jpg
+0767902890,63,4.142857142857143,The Things They Carried,TIM O'BRIEN,1998,Broadway,http://images.amazon.com/images/P/0767902890.01.MZZZZZZZ.jpg
+038548951X,63,4.904761904761905,Sister of My Heart,Chitra Banerjee Divakaruni,2000,Anchor Pub,http://images.amazon.com/images/P/038548951X.01.MZZZZZZZ.jpg
+0316769509,62,4.661290322580645,Nine Stories,J.D. Salinger,1991,"Little, Brown",http://images.amazon.com/images/P/0316769509.01.MZZZZZZZ.jpg
+0451161351,62,4.080645161290323,Cujo,Stephen King,2004,Signet Book,http://images.amazon.com/images/P/0451161351.01.MZZZZZZZ.jpg
+0618129022,62,5.516129032258065,The Lord of the Rings (Movie Art Cover),J.R.R. Tolkien,2001,Houghton Mifflin Company,http://images.amazon.com/images/P/0618129022.01.MZZZZZZZ.jpg
+0385507593,62,4.17741935483871,Jennifer Government : A Novel,Max Barry,2003,Doubleday,http://images.amazon.com/images/P/0385507593.01.MZZZZZZZ.jpg
+0452279178,61,4.721311475409836,"Wizard and Glass (The Dark Tower, Book 4)",Stephen King,1997,Plume Books,http://images.amazon.com/images/P/0452279178.01.MZZZZZZZ.jpg
+0140430725,61,4.754098360655738,"Pride and Prejudice (The Penguin English Library, El 72)",Jane Austen,1985,Penguin Books,http://images.amazon.com/images/P/0140430725.01.MZZZZZZZ.jpg
+0609608444,61,4.540983606557377,"The Devil in the White City : Murder, Magic, and Madness at the Fair That Changed America (Illinois)",ERIK LARSON,2003,Crown,http://images.amazon.com/images/P/0609608444.01.MZZZZZZZ.jpg
+0393319296,61,4.016393442622951,Invisible Monsters,Chuck Palahniuk,1999,W.W. Norton &amp; Company,http://images.amazon.com/images/P/0393319296.01.MZZZZZZZ.jpg
+068483376X,60,4.216666666666667,Succulent Wild Woman,Sark,1997,Fireside,http://images.amazon.com/images/P/068483376X.01.MZZZZZZZ.jpg
+0425129586,60,4.083333333333333,And Then There Were None,Agatha Christie,1995,Berkley Publishing Group,http://images.amazon.com/images/P/0425129586.01.MZZZZZZZ.jpg
+0316779490,60,4.116666666666666,Naked,David Sedaris,1997,Little Brown &amp; Co,http://images.amazon.com/images/P/0316779490.01.MZZZZZZZ.jpg
+0060914653,60,4.066666666666666,The Unbearable Lightness of Being,Milan Kundera,1988,Harpercollins,http://images.amazon.com/images/P/0060914653.01.MZZZZZZZ.jpg
+0140053204,59,4.0508474576271185,Travels With Charley: In Search of America,John Steinbeck,1980,Penguin Books,http://images.amazon.com/images/P/0140053204.01.MZZZZZZZ.jpg
+0380807343,59,4.169491525423729,Coraline,Neil Gaiman,2003,HarperTrophy,http://images.amazon.com/images/P/0380807343.01.MZZZZZZZ.jpg
+0452283442,59,5.203389830508475,The Darwin Awards: Evolution in Action,Wendy Northcutt,2002,Plume Books,http://images.amazon.com/images/P/0452283442.01.MZZZZZZZ.jpg
+3404148665,59,4.745762711864407,Illuminati.,Dan Brown,2003,LÃ?Â¼bbe,http://images.amazon.com/images/P/3404148665.01.MZZZZZZZ.jpg
+0345391810,59,4.203389830508475,The Restaurant at the End of the Universe (Hitchhiker's Trilogy (Paperback)),Douglas Adams,1995,Ballantine Books,http://images.amazon.com/images/P/0345391810.01.MZZZZZZZ.jpg
+0767903382,59,4.322033898305085,Tender at the Bone: Growing Up at the Table,Ruth Reichl,1999,Broadway Books,http://images.amazon.com/images/P/0767903382.01.MZZZZZZZ.jpg
+0684853523,59,4.271186440677966,On Writing,Stephen King,2000,Scribner,http://images.amazon.com/images/P/0684853523.01.MZZZZZZZ.jpg
+0679732411,58,4.310344827586207,Gift from the Sea,Anne Morrow Lindbergh,1991,Pantheon Books,http://images.amazon.com/images/P/0679732411.01.MZZZZZZZ.jpg
+0515134279,58,4.0344827586206895,The Straw Men,Michael Marshall,2002,Jove Books,http://images.amazon.com/images/P/0515134279.01.MZZZZZZZ.jpg
+0671744216,58,4.327586206896552,The Secret,Julie Garwood,1992,Pocket,http://images.amazon.com/images/P/0671744216.01.MZZZZZZZ.jpg
+0060175966,58,4.775862068965517,The Professor and the Madman,Simon Winchester,1998,HarperCollins Publishers,http://images.amazon.com/images/P/0060175966.01.MZZZZZZZ.jpg
+0142000663,58,5.103448275862069,The Grapes of Wrath: John Steinbeck Centennial Edition (1902-2002),John Steinbeck,2002,Penguin Books,http://images.amazon.com/images/P/0142000663.01.MZZZZZZZ.jpg
+1573226521,57,4.157894736842105,The Beach,Alex Garland,1998,Riverhead Books,http://images.amazon.com/images/P/1573226521.01.MZZZZZZZ.jpg
+0670032379,57,5.0701754385964914,The Secret Life of Bees,Sue Monk Kidd,2002,Viking Books,http://images.amazon.com/images/P/0670032379.01.MZZZZZZZ.jpg
+0375756981,57,5.333333333333333,The Vagina Monologues: The V-Day Edition,Eve Ensler,2000,Villard Books,http://images.amazon.com/images/P/0375756981.01.MZZZZZZZ.jpg
+0679785892,57,5.385964912280702,Fear and Loathing in Las Vegas : A Savage Journey to the Heart of the American Dream,HUNTER S. THOMPSON,1998,Vintage Books,http://images.amazon.com/images/P/0679785892.01.MZZZZZZZ.jpg
+0446532452,57,5.0701754385964914,The Wedding,Nicholas Sparks,2003,Warner Books,http://images.amazon.com/images/P/0446532452.01.MZZZZZZZ.jpg
+0441001971,57,4.2631578947368425,Circus of the Damned (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,1995,Ace Books,http://images.amazon.com/images/P/0441001971.01.MZZZZZZZ.jpg
+0670855030,57,4.368421052631579,Insomnia,Stephen King,1994,Viking Books,http://images.amazon.com/images/P/0670855030.01.MZZZZZZZ.jpg
+0446611638,57,4.543859649122807,Lost Light,Michael Connelly,2004,Warner Vision,http://images.amazon.com/images/P/0446611638.01.MZZZZZZZ.jpg
+0385199570,57,6.175438596491228,The Stand (The Complete and Uncut Edition),Stephen King,1990,Doubleday Books,http://images.amazon.com/images/P/0385199570.01.MZZZZZZZ.jpg
+0060934913,57,4.280701754385965,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,2001,Ecco,http://images.amazon.com/images/P/0060934913.01.MZZZZZZZ.jpg
+0842332251,57,4.456140350877193,The Mark: The Beast Rules the World (Left Behind #8),Tim LaHaye,2000,Tyndale House Publishers,http://images.amazon.com/images/P/0842332251.01.MZZZZZZZ.jpg
+0330267388,56,4.196428571428571,"Life,the Universe and Everything",Douglas Adams,0,Pan Books Ltd,http://images.amazon.com/images/P/0330267388.01.MZZZZZZZ.jpg
+0440343194,56,4.696428571428571,Illusions,Richard Bach,1981,Bantam Doubleday Dell,http://images.amazon.com/images/P/0440343194.01.MZZZZZZZ.jpg
+3423202327,56,4.839285714285714,MÃ?Â¶rder ohne Gesicht.,Henning Mankell,1999,Dtv,http://images.amazon.com/images/P/3423202327.01.MZZZZZZZ.jpg
+0767902513,56,4.375,A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,1998,Bantam Dell Pub Group,http://images.amazon.com/images/P/0767902513.01.MZZZZZZZ.jpg
+0679459626,56,4.285714285714286,Flesh and Blood,Jonathan Kellerman,2001,Random House,http://images.amazon.com/images/P/0679459626.01.MZZZZZZZ.jpg
+0440487617,56,4.5,A Wind in the Door,Madeleine L'Engle,1974,Yearling Books,http://images.amazon.com/images/P/0440487617.01.MZZZZZZZ.jpg
+0786866845,56,4.232142857142857,Ice Bound: A Doctor's Incredible Battle for Survival at the South Pole,Dr. Jerri Nielsen,2001,Miramax,http://images.amazon.com/images/P/0786866845.01.MZZZZZZZ.jpg
+3257229534,56,4.5,Der Vorleser,Bernhard Schlink,1999,Diogenes Verlag AG,http://images.amazon.com/images/P/3257229534.01.MZZZZZZZ.jpg
+015602943X,56,4.035714285714286,The Time Traveler's Wife (Harvest Book),Audrey Niffenegger,2004,Harvest Books,http://images.amazon.com/images/P/015602943X.01.MZZZZZZZ.jpg
+0375406530,55,4.090909090909091,Waiting,Ha Jin,1999,Pantheon Books,http://images.amazon.com/images/P/0375406530.01.MZZZZZZZ.jpg
+1573221112,54,4.277777777777778,The Art of Happiness: A Handbook for Living,Dalai Lama,1998,Penguin Putnam,http://images.amazon.com/images/P/1573221112.01.MZZZZZZZ.jpg
+0451167716,54,5.518518518518518,The Godfather,Mario Puzo,2004,Signet Book,http://images.amazon.com/images/P/0451167716.01.MZZZZZZZ.jpg
+0140620222,54,4.5,Pride and Prejudice (Penguin Popular Classics),Jane Austen,1994,Penguin Books Ltd,http://images.amazon.com/images/P/0140620222.01.MZZZZZZZ.jpg
+0441003745,54,4.166666666666667,Bloody Bones (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,2001,ACE Charter,http://images.amazon.com/images/P/0441003745.01.MZZZZZZZ.jpg
+0740704818,54,4.962962962962963,The Blue Day Book,Bradley Trevor Greive,2000,Andrews McMeel Publishing,http://images.amazon.com/images/P/0740704818.01.MZZZZZZZ.jpg
+1844262553,54,7.962962962962963,Free,Paul Vincent,2003,Upfront Publishing,http://images.amazon.com/images/P/1844262553.01.MZZZZZZZ.jpg
+0679723110,54,4.2407407407407405,Grendel,John Champlin Gardner,1989,Vintage Books USA,http://images.amazon.com/images/P/0679723110.01.MZZZZZZZ.jpg
+3257228007,54,4.37037037037037,Das Parfum: Die Geschichte Eines Morders,Patrick Suskind,1994,Distribooks Inc,http://images.amazon.com/images/P/3257228007.01.MZZZZZZZ.jpg
+0811801802,53,5.452830188679245,Sabine's Notebook: In Which the Extraordinary Correspondence of Griffin &amp; Sabine Continues,Nick Bantock,1992,Chronicle Books,http://images.amazon.com/images/P/0811801802.01.MZZZZZZZ.jpg
+084233226X,53,4.679245283018868,Desecration: Antichrist Takes the Throne (Left Behind No. 9),Tim Lahaye,2001,Tyndale House Publishers,http://images.amazon.com/images/P/084233226X.01.MZZZZZZZ.jpg
+0140440046,53,4.320754716981132,Candide (Penguin Classics),Francois M. Voltaire,1990,Penguin Books,http://images.amazon.com/images/P/0140440046.01.MZZZZZZZ.jpg
+0140143505,53,5.0,84 Charing Cross Road,Helene Hanff,1990,Penguin Books,http://images.amazon.com/images/P/0140143505.01.MZZZZZZZ.jpg
+0451523377,53,4.547169811320755,Dracula (Signet Classics (Paperback)),Bram Stoker,1997,Signet Classics,http://images.amazon.com/images/P/0451523377.01.MZZZZZZZ.jpg
+0553580272,52,4.134615384615385,"House Atreides (Dune: House Trilogy, Book 1)",Brian Herbert,2000,Spectra Books,http://images.amazon.com/images/P/0553580272.01.MZZZZZZZ.jpg
+0393312836,52,5.019230769230769,A Clockwork Orange (Norton Paperback Fiction),Anthony Burgess,1986,W. W. Norton &amp; Company,http://images.amazon.com/images/P/0393312836.01.MZZZZZZZ.jpg
+0553348981,52,5.173076923076923,Jitterbug Perfume,TOM ROBBINS,1990,Bantam,http://images.amazon.com/images/P/0553348981.01.MZZZZZZZ.jpg
+039480001X,52,5.730769230769231,The Cat in the Hat,Dr. Seuss,1957,Random House Books for Young Readers,http://images.amazon.com/images/P/039480001X.01.MZZZZZZZ.jpg
+0345338588,52,4.3076923076923075,"On a Pale Horse (Incarnations of Immortality, Bk. 1)",Piers Anthony,1989,Del Rey Books,http://images.amazon.com/images/P/0345338588.01.MZZZZZZZ.jpg
+0679721037,52,4.346153846153846,Hiroshima,John Hersey,1989,Vintage Books USA,http://images.amazon.com/images/P/0679721037.01.MZZZZZZZ.jpg
+038533558X,52,4.1923076923076925,Gone For Good,HARLAN COBEN,2002,Delacorte Press,http://images.amazon.com/images/P/038533558X.01.MZZZZZZZ.jpg
+0375758992,51,4.254901960784314,Don't Let's Go to the Dogs Tonight : An African Childhood,ALEXANDRA FULLER,2003,Random House Trade Paperbacks,http://images.amazon.com/images/P/0375758992.01.MZZZZZZZ.jpg
+1853260010,51,4.019607843137255,Wuthering Heights (Wordsworth Classics),Emily Bronte,1997,NTC/Contemporary Publishing Company,http://images.amazon.com/images/P/1853260010.01.MZZZZZZZ.jpg
+0060934719,51,4.137254901960785,stardust,Neil Gaiman,2001,Perennial,http://images.amazon.com/images/P/0060934719.01.MZZZZZZZ.jpg
+0446530891,51,4.098039215686274,Split Second,David Baldacci,2003,Warner Books,http://images.amazon.com/images/P/0446530891.01.MZZZZZZZ.jpg
+0740723367,50,4.74,The Meaning Of Life,Bradley Trevor Greive,2002,Andrews McMeel Publishing,http://images.amazon.com/images/P/0740723367.01.MZZZZZZZ.jpg
+0451179285,50,4.06,The Stand: The Complete &amp; Uncut Edition,Stephen King,1994,New Amer Library,http://images.amazon.com/images/P/0451179285.01.MZZZZZZZ.jpg
+0684195976,50,4.02,BODY FARM,Patricia Cornwell,1994,Scribner,http://images.amazon.com/images/P/0684195976.01.MZZZZZZZ.jpg
+0670813648,50,4.5,Misery,Stephen King,1990,Viking Books,http://images.amazon.com/images/P/0670813648.01.MZZZZZZZ.jpg
+0060935464,50,4.7,To Kill a Mockingbird,Harper Lee,2002,Perennial Classics,http://images.amazon.com/images/P/0060935464.01.MZZZZZZZ.jpg
+0877733759,50,4.56,Writing Down the Bones,NATALIE GOLDBERG,1986,Shambhala,http://images.amazon.com/images/P/0877733759.01.MZZZZZZZ.jpg
+0399146008,50,4.18,Shock,Robin Cook,2001,G. P. Putnam's Sons,http://images.amazon.com/images/P/0399146008.01.MZZZZZZZ.jpg
+0553212451,50,4.26,The Jungle (Bantam Classics),Upton Sinclair,1981,Bantam,http://images.amazon.com/images/P/0553212451.01.MZZZZZZZ.jpg
+0670031909,50,4.16,Lost in a Good Book: A Thursday Next Novel,Jasper Fforde,2003,Viking Books,http://images.amazon.com/images/P/0670031909.01.MZZZZZZZ.jpg
+0007110928,50,4.16,Billy,Pamela Stephenson,2002,HarperCollins Entertainment,http://images.amazon.com/images/P/0007110928.01.MZZZZZZZ.jpg
+0380788624,49,4.183673469387755,Cryptonomicon,Neal Stephenson,2000,Perennial,http://images.amazon.com/images/P/0380788624.01.MZZZZZZZ.jpg
+0374525641,49,4.918367346938775,The Spirit Catches You and You Fall Down,Anne Fadiman,1998,"Farrar, Straus and Giroux",http://images.amazon.com/images/P/0374525641.01.MZZZZZZZ.jpg
+0385496095,49,4.122448979591836,Traveling Mercies: Some Thoughts on Faith,Anne Lamott,2000,Anchor Books/Doubleday,http://images.amazon.com/images/P/0385496095.01.MZZZZZZZ.jpg
+0316154059,49,5.428571428571429,City of Bones,Michael Connelly,2002,Warner Books,http://images.amazon.com/images/P/0316154059.01.MZZZZZZZ.jpg
+0553377884,49,4.1020408163265305,Skinny Legs and All,Tom Robbins,1995,Bantam,http://images.amazon.com/images/P/0553377884.01.MZZZZZZZ.jpg
+0875421180,49,5.489795918367347,Wicca: A Guide for the Solitary Practitioner,Scott Cunningham,1988,Llewellyn Publications,http://images.amazon.com/images/P/0875421180.01.MZZZZZZZ.jpg
+0671705091,49,4.3061224489795915,A Knight in Shining Armor,Jude Deveraux,1990,Pocket,http://images.amazon.com/images/P/0671705091.01.MZZZZZZZ.jpg
+0688177743,48,4.229166666666667,Keeping Faith : A Novel,Jodi Picoult,2000,Perennial,http://images.amazon.com/images/P/0688177743.01.MZZZZZZZ.jpg
+193156146X,48,4.75,The Time Traveler's Wife,Audrey Niffenegger,2003,MacAdam/Cage Publishing,http://images.amazon.com/images/P/193156146X.01.MZZZZZZZ.jpg
+0385418493,48,4.708333333333333,How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe (Hinges of History),Thomas Cahill,1996,Anchor,http://images.amazon.com/images/P/0385418493.01.MZZZZZZZ.jpg
+0452262143,48,4.208333333333333,"The Drawing of the Three (The Dark Tower, Book 2)",Stephen King,1989,Plume Books,http://images.amazon.com/images/P/0452262143.01.MZZZZZZZ.jpg
+0836218620,48,4.8125,Weirdos From Another Planet!,Bill Watterson,1990,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218620.01.MZZZZZZZ.jpg
+0553268449,48,4.875,JITTERBUG PERFUME,TOM ROBBINS,1985,Bantam,http://images.amazon.com/images/P/0553268449.01.MZZZZZZZ.jpg
+0753804700,48,4.625,Reader,Bernhard Schlink,0,Phoenix Books,http://images.amazon.com/images/P/0753804700.01.MZZZZZZZ.jpg
+0679732764,48,4.458333333333333,Invisible Man,Ralph Ellison,1995,Vintage Books USA,http://images.amazon.com/images/P/0679732764.01.MZZZZZZZ.jpg
+0440418321,47,4.276595744680851,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,2001,Yearling,http://images.amazon.com/images/P/0440418321.01.MZZZZZZZ.jpg
+0441002935,47,5.0638297872340425,The Lunatic Cafe (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,2001,ACE Charter,http://images.amazon.com/images/P/0441002935.01.MZZZZZZZ.jpg
+0060927569,47,4.1063829787234045,High Tide in Tucson : Essays from Now or Never,Barbara Kingsolver,1996,Perennial,http://images.amazon.com/images/P/0060927569.01.MZZZZZZZ.jpg
+0679879242,46,5.130434782608695,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,1996,Knopf Books for Young Readers,http://images.amazon.com/images/P/0679879242.01.MZZZZZZZ.jpg
+325722575X,46,4.043478260869565,Der Hahn ist tot. Roman.,Ingrid Noll,1993,Diogenes Verlag,http://images.amazon.com/images/P/325722575X.01.MZZZZZZZ.jpg
+0312205406,46,4.065217391304348,Hot Six (A Stephanie Plum Novel),Janet Evanovich,2000,St. Martin's Press,http://images.amazon.com/images/P/0312205406.01.MZZZZZZZ.jpg
+0374480095,46,4.543478260869565,Tuck Everlasting,Natalie Babbitt,1985,"Farrar, Straus and Giroux (BYR)",http://images.amazon.com/images/P/0374480095.01.MZZZZZZZ.jpg
+0743455967,46,4.826086956521739,On Writing,Stephen King,2002,Pocket,http://images.amazon.com/images/P/0743455967.01.MZZZZZZZ.jpg
+0553293354,46,4.369565217391305,Foundation (Foundation Novels (Paperback)),ISAAC ASIMOV,1991,Spectra,http://images.amazon.com/images/P/0553293354.01.MZZZZZZZ.jpg
+0452278902,46,4.086956521739131,The Green Mile: The Complete Serial Novel,Stephen King,1997,Plume Books,http://images.amazon.com/images/P/0452278902.01.MZZZZZZZ.jpg
+068487217X,46,4.217391304347826,Angelas Ashes: A Memoir,Frank McCourt,1999,Scribner,http://images.amazon.com/images/P/068487217X.01.MZZZZZZZ.jpg
+0743424425,46,4.673913043478261,The Shining,Stephen King,2001,Pocket,http://images.amazon.com/images/P/0743424425.01.MZZZZZZZ.jpg
+0064407055,46,4.217391304347826,Ella Enchanted (Trophy Newbery),Gail Carson Levine,1998,HarperTrophy,http://images.amazon.com/images/P/0064407055.01.MZZZZZZZ.jpg
+0786869216,46,4.369565217391305,The Pleasure of My Company: A Novel,Steve Martin,2003,Hyperion,http://images.amazon.com/images/P/0786869216.01.MZZZZZZZ.jpg
+0441005241,46,4.478260869565218,"Burnt Offerings (Anita Blake, Vampire Hunter)",Laurell K. Hamilton,2001,Ace Books,http://images.amazon.com/images/P/0441005241.01.MZZZZZZZ.jpg
+084232920X,45,4.088888888888889,"Assassins: Assignment: Jerusalem, Target: Antichrist (Left Behind #6)",Tim Lahaye,1999,Tyndale House Publishers,http://images.amazon.com/images/P/084232920X.01.MZZZZZZZ.jpg
+0064400042,45,4.844444444444444,On the Banks of Plum Creek,Laura Ingalls Wilder,1953,HarperTrophy,http://images.amazon.com/images/P/0064400042.01.MZZZZZZZ.jpg
+0141301155,45,4.444444444444445,Charlie and the Chocolate Factory (Puffin Novels),Roald Dahl,1998,Puffin Books,http://images.amazon.com/images/P/0141301155.01.MZZZZZZZ.jpg
+0385319207,45,4.022222222222222,One True Thing,Anna Quindlen,1997,Delta Trade Paperbacks,http://images.amazon.com/images/P/0385319207.01.MZZZZZZZ.jpg
+0140620338,45,4.622222222222222,Picture of Dorian Gray,Oscar Wilde,0,Penguin Putnam~mass,http://images.amazon.com/images/P/0140620338.01.MZZZZZZZ.jpg
+0440229499,45,4.133333333333334,Gathering Blue (Readers Circle),LOIS LOWRY,2002,Laurel Leaf,http://images.amazon.com/images/P/0440229499.01.MZZZZZZZ.jpg
+0061092177,45,4.333333333333333,Small Gods (Discworld Novels (Paperback)),Terry Pratchett,1994,HarperTorch,http://images.amazon.com/images/P/0061092177.01.MZZZZZZZ.jpg
+0670835382,45,4.8,Four Past Midnight,Stephen King,1990,Viking Books,http://images.amazon.com/images/P/0670835382.01.MZZZZZZZ.jpg
+0448095017,45,4.044444444444444,"The Secret of the Old Clock (Nancy Drew Mystery Stories, No 1)",Carolyn Keene,1930,Grosset &amp; Dunlap,http://images.amazon.com/images/P/0448095017.01.MZZZZZZZ.jpg
+0609807900,45,5.155555555555556,Sloppy Firsts : A Novel,Megan McCafferty,2001,Three Rivers Press,http://images.amazon.com/images/P/0609807900.01.MZZZZZZZ.jpg
+1400033543,44,4.113636363636363,You Shall Know Our Velocity,DAVE EGGERS,2003,Vintage,http://images.amazon.com/images/P/1400033543.01.MZZZZZZZ.jpg
+038533348X,44,4.9772727272727275,Cat's Cradle,Kurt Vonnegut,1998,Delta,http://images.amazon.com/images/P/038533348X.01.MZZZZZZZ.jpg
+0807083054,44,4.840909090909091,Kindred (Black Women Writers Series),Octavia Butler,1988,Beacon Press,http://images.amazon.com/images/P/0807083054.01.MZZZZZZZ.jpg
+0553213695,44,5.409090909090909,The Metamorphosis (Bantam Classics),FRANZ KAFKA,1972,Bantam,http://images.amazon.com/images/P/0553213695.01.MZZZZZZZ.jpg
+0671027646,44,4.0227272727272725,The Christmas Box Collection : The Christmas Box Timepiece The Letter,Richard Paul Evans,1998,Pocket,http://images.amazon.com/images/P/0671027646.01.MZZZZZZZ.jpg
+0395977894,44,5.090909090909091,Fast Food Nation,Eric Schlosser,2001,Houghton Mifflin Company,http://images.amazon.com/images/P/0395977894.01.MZZZZZZZ.jpg
+0385504470,44,4.704545454545454,Lullaby : A Novel,CHUCK PALAHNIUK,2002,Doubleday,http://images.amazon.com/images/P/0385504470.01.MZZZZZZZ.jpg
+0441004520,44,5.386363636363637,Killing Dance (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,2001,Ace Books,http://images.amazon.com/images/P/0441004520.01.MZZZZZZZ.jpg
+0553283685,44,5.409090909090909,Hyperion,DAN SIMMONS,1990,Bantam,http://images.amazon.com/images/P/0553283685.01.MZZZZZZZ.jpg
+0679454454,44,4.2272727272727275,Sick Puppy,Carl Hiaasen,2000,Alfred A. Knopf,http://images.amazon.com/images/P/0679454454.01.MZZZZZZZ.jpg
+0452281032,44,4.204545454545454,The Mammy,Brendan O'Carroll,1999,Plume Books,http://images.amazon.com/images/P/0452281032.01.MZZZZZZZ.jpg
+0743245520,44,4.5,"Hello, Darkness",Sandra Brown,2003,Simon &amp; Schuster,http://images.amazon.com/images/P/0743245520.01.MZZZZZZZ.jpg
+0684801051,44,4.090909090909091,TIME AND AGAIN,Jack Finney,1995,Touchstone,http://images.amazon.com/images/P/0684801051.01.MZZZZZZZ.jpg
+0345350472,44,4.886363636363637,Blade Runner: (Do Androids Dream of Electric Sheep),Philip K. Dick,1990,Del Rey Books,http://images.amazon.com/images/P/0345350472.01.MZZZZZZZ.jpg
+0345339495,44,4.181818181818182,Nerilka's Story (Dragonriders of Pern (Paperback)),Anne McCaffrey,1995,Del Rey Books,http://images.amazon.com/images/P/0345339495.01.MZZZZZZZ.jpg
+0375411550,44,4.704545454545454,The Bluest Eye,Toni Morrison,2000,Knopf,http://images.amazon.com/images/P/0375411550.01.MZZZZZZZ.jpg
+0679775439,44,4.886363636363637,The Wind-Up Bird Chronicle,Haruki Murakami,1998,Vintage Books USA,http://images.amazon.com/images/P/0679775439.01.MZZZZZZZ.jpg
+1853260002,44,4.295454545454546,Pride &amp; Prejudice (Wordsworth Classics),Jane Austen,1997,NTC/Contemporary Publishing Company,http://images.amazon.com/images/P/1853260002.01.MZZZZZZZ.jpg
+087113795X,44,4.545454545454546,Peace Like a River,Leif Enger,2001,Grove/Atlantic,http://images.amazon.com/images/P/087113795X.01.MZZZZZZZ.jpg
+0812565959,44,4.0227272727272725,Shadow of the Hegemon (Ender Wiggins Saga (Paperback)),Orson Scott Card,2001,Tor Books,http://images.amazon.com/images/P/0812565959.01.MZZZZZZZ.jpg
+055321330X,43,4.511627906976744,The Awakening,Kate Chopin,1985,Bantam,http://images.amazon.com/images/P/055321330X.01.MZZZZZZZ.jpg
+1880418568,43,4.744186046511628,"Wolves of the Calla (The Dark Tower, Book 5)",Stephen King,2003,Donald M. Grant/Scribner,http://images.amazon.com/images/P/1880418568.01.MZZZZZZZ.jpg
+0140042520,43,4.8604651162790695,Dharma Bums,Jack Kerouac,1991,Penguin Books,http://images.amazon.com/images/P/0140042520.01.MZZZZZZZ.jpg
+0743454529,43,4.883720930232558,"My Sister's Keeper : A Novel (Picoult, Jodi)",Jodi Picoult,2004,Atria,http://images.amazon.com/images/P/0743454529.01.MZZZZZZZ.jpg
+0670813028,43,4.604651162790698,It,Stephen King,1986,Viking Books,http://images.amazon.com/images/P/0670813028.01.MZZZZZZZ.jpg
+0393050939,43,4.511627906976744,Stiff: The Curious Lives of Human Cadavers,Mary Roach,2003,W. W. Norton &amp; Company,http://images.amazon.com/images/P/0393050939.01.MZZZZZZZ.jpg
+0671039741,43,4.976744186046512,Salem's Lot,Stephen King,1999,Pocket,http://images.amazon.com/images/P/0671039741.01.MZZZZZZZ.jpg
+0812548094,43,4.046511627906977,"Stone of Tears (Sword of Truth, Book 2)",Terry Goodkind,1996,Tor Fantasy,http://images.amazon.com/images/P/0812548094.01.MZZZZZZZ.jpg
+0395083567,43,4.069767441860465,My Antonia,Willa Sibert Cather,1954,Houghton Mifflin,http://images.amazon.com/images/P/0395083567.01.MZZZZZZZ.jpg
+0842332340,43,4.069767441860465,Armageddon: The Cosmic Battle of the Ages (Left Behind #11),Tim F. LaHaye,2003,Tyndale House Publishers,http://images.amazon.com/images/P/0842332340.01.MZZZZZZZ.jpg
+0590371258,43,4.023255813953488,Out of the Dust (Apple Signature Edition),Karen Hesse,1999,Scholastic,http://images.amazon.com/images/P/0590371258.01.MZZZZZZZ.jpg
+0060976241,43,4.767441860465116,The Lone Ranger and Tonto Fistfight in Heaven,Sherman Alexie,1994,Perennial,http://images.amazon.com/images/P/0060976241.01.MZZZZZZZ.jpg
+0684803860,42,4.095238095238095,DAUGHTER OF TIME,Josephine Tey,1995,Touchstone,http://images.amazon.com/images/P/0684803860.01.MZZZZZZZ.jpg
+1550548913,42,4.5476190476190474,How to Be a Canadian: Even If You Already are One,Will Ferguson,2003,Douglas &amp; McIntyre,http://images.amazon.com/images/P/1550548913.01.MZZZZZZZ.jpg
+0440111498,42,4.904761904761905,Cat's Cradle,Kurt Vonnegut,1997,Dell Publishing Company,http://images.amazon.com/images/P/0440111498.01.MZZZZZZZ.jpg
+0140258795,42,4.5,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time,Dava Sobel,1996,Penguin Books,http://images.amazon.com/images/P/0140258795.01.MZZZZZZZ.jpg
+0440220653,42,4.119047619047619,The Face on the Milk Carton,Caroline B. Cooney,1991,Laure Leaf,http://images.amazon.com/images/P/0440220653.01.MZZZZZZZ.jpg
+0385480016,42,4.785714285714286,Bird by Bird: Some Instructions on Writing and Life,Anne Lamott,1995,Anchor,http://images.amazon.com/images/P/0385480016.01.MZZZZZZZ.jpg
+0836220889,42,5.476190476190476,Calvin and Hobbes,Bill Watterson,1987,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836220889.01.MZZZZZZZ.jpg
+0671039725,42,4.5476190476190474,Carrie,Stephen King,2002,Pocket,http://images.amazon.com/images/P/0671039725.01.MZZZZZZZ.jpg
+0140186409,42,4.523809523809524,The Grapes of Wrath (20th Century Classics),John Steinbeck,1992,Penguin Books,http://images.amazon.com/images/P/0140186409.01.MZZZZZZZ.jpg
+0380698714,42,4.119047619047619,Sideways Stories from Wayside School (Wayside School),Louis Sachar,1985,HarperTrophy,http://images.amazon.com/images/P/0380698714.01.MZZZZZZZ.jpg
+0440237688,42,5.738095238095238,The Giver (Readers Circle),LOIS LOWRY,2002,Laurel Leaf,http://images.amazon.com/images/P/0440237688.01.MZZZZZZZ.jpg
+0441005748,42,4.357142857142857,Blue Moon (Anita Blake Vampire Hunter),Laurell K. Hamilton,1998,Ace Books,http://images.amazon.com/images/P/0441005748.01.MZZZZZZZ.jpg
+2290311782,42,4.023809523809524,Je Voudrais Que Quelqu'un M'Attende Quelque Part,Anna Gavalda,2001,Editions J'Ai Lu,http://images.amazon.com/images/P/2290311782.01.MZZZZZZZ.jpg
+0060955775,42,4.5476190476190474,Veronika Decides to Die,Paulo Coelho,2001,Perennial,http://images.amazon.com/images/P/0060955775.01.MZZZZZZZ.jpg
+0316143464,42,4.619047619047619,Dress Your Family in Corduroy and Denim,David Sedaris,2004,"Little, Brown",http://images.amazon.com/images/P/0316143464.01.MZZZZZZZ.jpg
+0064407691,42,4.380952380952381,"The Miserable Mill (A Series of Unfortunate Events, Book 4)",Lemony Snicket,2000,HarperCollins,http://images.amazon.com/images/P/0064407691.01.MZZZZZZZ.jpg
+0020199600,42,4.809523809523809,GREAT GATSBY (REISSUE),F. Scott Fitzgerald,1988,Scribner Paper Fiction,http://images.amazon.com/images/P/0020199600.01.MZZZZZZZ.jpg
+0394800168,41,4.878048780487805,Green Eggs and Ham (I Can Read It All by Myself Beginner Books),Dr. Seuss,1960,Random House Books for Young Readers,http://images.amazon.com/images/P/0394800168.01.MZZZZZZZ.jpg
+0886773520,41,4.219512195121951,"Magic's Pawn (The Last Herald-Mage Series, Book 1)",Mercedes Lackey,1994,Daw Books,http://images.amazon.com/images/P/0886773520.01.MZZZZZZZ.jpg
+0060085452,41,4.560975609756097,Boy Meets Girl,Meg Cabot,2004,Avon Trade,http://images.amazon.com/images/P/0060085452.01.MZZZZZZZ.jpg
+8806142100,41,4.341463414634147,Io Non Ho Paura,Niccolo Ammaniti,2002,Distribooks Inc,http://images.amazon.com/images/P/8806142100.01.MZZZZZZZ.jpg
+0812551478,41,4.121951219512195,"Blood of the Fold (Sword of Truth, Book 3)",Terry Goodkind,1997,Tor Fantasy,http://images.amazon.com/images/P/0812551478.01.MZZZZZZZ.jpg
+0060932813,41,4.390243902439025,Waiting: The True Confessions of a Waitress,Debra Ginsberg,2001,Perennial,http://images.amazon.com/images/P/0060932813.01.MZZZZZZZ.jpg
+0140386335,41,4.7560975609756095,The Neverending Story,Michael Ende,1996,Puffin Books,http://images.amazon.com/images/P/0140386335.01.MZZZZZZZ.jpg
+2070360024,41,5.390243902439025,"L'Etranger (Collection Folio, 2)",Albert Camus,1990,Gallimard Jeunesse,http://images.amazon.com/images/P/2070360024.01.MZZZZZZZ.jpg
+0451196716,40,4.125,The Long Walk,Stephen King,1999,Signet Book,http://images.amazon.com/images/P/0451196716.01.MZZZZZZZ.jpg
+014023828X,40,4.325,The Tortilla Curtain,T. Coraghessan Boyle,1996,Penguin Books,http://images.amazon.com/images/P/014023828X.01.MZZZZZZZ.jpg
+0394404289,40,4.725,The Prophet,Kahlil Gibran,1973,Alfred A. Knopf,http://images.amazon.com/images/P/0394404289.01.MZZZZZZZ.jpg
+0836218515,40,4.95,Prehistory of the Far Side,Gary Larson,1989,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218515.01.MZZZZZZZ.jpg
+0836218655,40,4.65,Wiener Dog Art,Gary Larson,1990,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218655.01.MZZZZZZZ.jpg
+067172262X,40,5.225,Hamlet,William Shakespeare,1992,Washington Square Press,http://images.amazon.com/images/P/067172262X.01.MZZZZZZZ.jpg
+0679760806,40,4.125,The Master and Margarita,Mikhail Bulgakov,1996,Vintage Books USA,http://images.amazon.com/images/P/0679760806.01.MZZZZZZZ.jpg
+0060830956,40,4.275,Brave New World,Aldous Huxley,1984,HarperCollins Publishers,http://images.amazon.com/images/P/0060830956.01.MZZZZZZZ.jpg
+0671726889,40,4.025,CUCKOO'S EGG,Clifford Stoll,1990,Pocket,http://images.amazon.com/images/P/0671726889.01.MZZZZZZZ.jpg
+0394758285,40,4.65,The Big Sleep,Raymond Chandler,1992,Vintage Books USA,http://images.amazon.com/images/P/0394758285.01.MZZZZZZZ.jpg
+0439425220,40,5.675,Harry Potter and the Chamber of Secrets Postcard Book,J. K. Rowling,2002,Scholastic,http://images.amazon.com/images/P/0439425220.01.MZZZZZZZ.jpg
+0064410129,40,4.175,"The Carnivorous Carnival (A Series of Unfortunate Events, Book 9)",Lemony Snicket,2002,HarperCollins,http://images.amazon.com/images/P/0064410129.01.MZZZZZZZ.jpg
+0380726238,40,4.2,A Drink Before the War (Patrick Kenzie/Angela Gennaro Novels),Dennis Lehane,1996,HarperTorch,http://images.amazon.com/images/P/0380726238.01.MZZZZZZZ.jpg
+0553573861,40,4.25,Zodiac: The Eco-Thriller,Neal Stephenson,1995,Bantam,http://images.amazon.com/images/P/0553573861.01.MZZZZZZZ.jpg
+3379015180,39,4.384615384615385,Schlafes Bruder,Robert Schneider,1994,"Reclam, Leipzig",http://images.amazon.com/images/P/3379015180.01.MZZZZZZZ.jpg
+0836204387,39,5.461538461538462,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,1995,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836204387.01.MZZZZZZZ.jpg
+0399145885,39,4.615384615384615,Atlantis Found (Dirk Pitt Adventures (Hardcover)),Clive Cussler,1999,Putnam Publishing Group,http://images.amazon.com/images/P/0399145885.01.MZZZZZZZ.jpg
+0399145923,39,4.82051282051282,Carolina Moon,Nora Roberts,2000,Putnam Pub Group,http://images.amazon.com/images/P/0399145923.01.MZZZZZZZ.jpg
+0451457811,39,4.461538461538462,"Storm Front (The Dresden Files, Book 1)",Jim Butcher,2000,Roc,http://images.amazon.com/images/P/0451457811.01.MZZZZZZZ.jpg
+0140296298,39,4.205128205128205,Riding in Cars With Boys: Confessions of a Bad Girl Who Makes Good,Beverley Donofrio,2001,Penguin Books,http://images.amazon.com/images/P/0140296298.01.MZZZZZZZ.jpg
+0451191137,39,5.0,Anthem,Ayn Rand,1996,Signet Book,http://images.amazon.com/images/P/0451191137.01.MZZZZZZZ.jpg
+0553148001,39,4.589743589743589,The Clan of the Cave Bear : a novel,Jean M. Auel,1981,Bantam Books,http://images.amazon.com/images/P/0553148001.01.MZZZZZZZ.jpg
+0312272057,39,4.512820512820513,Dry: A Memoir,Augusten Burroughs,2003,St. Martin's Press,http://images.amazon.com/images/P/0312272057.01.MZZZZZZZ.jpg
+0060391448,39,4.461538461538462,Wicked : The Life and Times of the Wicked Witch of the West,Gregory Maguire,1995,HarperCollins,http://images.amazon.com/images/P/0060391448.01.MZZZZZZZ.jpg
+0525946233,39,5.051282051282051,The Darwin Awards II: Unnatural Selection,Wendy Northcutt,2001,Dutton Books,http://images.amazon.com/images/P/0525946233.01.MZZZZZZZ.jpg
+0345404475,39,4.769230769230769,Do Androids Dream of Electric Sheep?,Philip K. Dick,1996,Del Rey Books,http://images.amazon.com/images/P/0345404475.01.MZZZZZZZ.jpg
+0618002235,39,6.230769230769231,"The Two Towers (The Lord of the Rings, Part 2)",J. R. R. Tolkien,1999,Houghton Mifflin Company,http://images.amazon.com/images/P/0618002235.01.MZZZZZZZ.jpg
+044990928X,39,4.410256410256411,Operating Instructions: A Journal of My Son's First Year,Anne Lamott,1994,Ballantine Books,http://images.amazon.com/images/P/044990928X.01.MZZZZZZZ.jpg
+0451157443,39,4.589743589743589,Carrie,Stephen King,1994,Signet Book,http://images.amazon.com/images/P/0451157443.01.MZZZZZZZ.jpg
+039914675X,39,4.076923076923077,The Cat Who Went up the Creek,Lilian Jackson Braun,2002,Putnam Adult,http://images.amazon.com/images/P/039914675X.01.MZZZZZZZ.jpg
+055337933X,39,5.102564102564102,Fierce Invalids Home from Hot Climates,TOM ROBBINS,2001,Bantam,http://images.amazon.com/images/P/055337933X.01.MZZZZZZZ.jpg
+0425166929,38,4.2631578947368425,One Last Time: A Psychic Medium Speaks to Those We Have Loved and Lost,John Edward,2000,Berkley Publishing Group,http://images.amazon.com/images/P/0425166929.01.MZZZZZZZ.jpg
+0060248025,38,6.921052631578948,Falling Up,Shel Silverstein,1996,HarperCollins,http://images.amazon.com/images/P/0060248025.01.MZZZZZZZ.jpg
+0679410325,38,4.026315789473684,"Secret History, The",DONNA TARTT,1992,Knopf,http://images.amazon.com/images/P/0679410325.01.MZZZZZZZ.jpg
+2253044903,38,4.5,Le Parfum : Histoire d'un meurtrier,Patrick SÃ?Â¼skind,1988,LGF,http://images.amazon.com/images/P/2253044903.01.MZZZZZZZ.jpg
+0062502174,38,4.815789473684211,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,1993,HarperSanFrancisco,http://images.amazon.com/images/P/0062502174.01.MZZZZZZZ.jpg
+0380816547,38,4.184210526315789,Island of the Sequined Love Nun,Christopher Moore,2000,Perennial,http://images.amazon.com/images/P/0380816547.01.MZZZZZZZ.jpg
+0385318782,38,4.868421052631579,Talk Before Sleep,Elizabeth Berg,1997,Dell,http://images.amazon.com/images/P/0385318782.01.MZZZZZZZ.jpg
+0060977337,38,4.447368421052632,Downsize This! Random Threats from an Unarmed American,Michael Moore,1997,Perennial,http://images.amazon.com/images/P/0060977337.01.MZZZZZZZ.jpg
+0440407524,38,4.7631578947368425,Shiloh (Yearling Newbery),Phyllis Reynolds Naylor,1992,Yearling Books,http://images.amazon.com/images/P/0440407524.01.MZZZZZZZ.jpg
+0440222028,38,5.052631578947368,Simisola,Ruth Rendell,1996,Dell,http://images.amazon.com/images/P/0440222028.01.MZZZZZZZ.jpg
+0802132758,38,4.7105263157894735,Rosencrantz &amp; Guildenstern Are Dead,Tom Stoppard,1991,Grove Press,http://images.amazon.com/images/P/0802132758.01.MZZZZZZZ.jpg
+0312950586,38,4.105263157894737,Every Living Thing,James Herriot,1996,St. Martin's Press,http://images.amazon.com/images/P/0312950586.01.MZZZZZZZ.jpg
+0140296409,38,4.7894736842105265,Disgrace,J. M. Coetzee,2000,Penguin Books,http://images.amazon.com/images/P/0140296409.01.MZZZZZZZ.jpg
+0380753006,38,4.342105263157895,Savage Thunder,Johanna Lindsey,1989,Avon,http://images.amazon.com/images/P/0380753006.01.MZZZZZZZ.jpg
+0943233437,38,4.105263157894737,Random Acts of Kindness,Conari Press,1993,Conari Press,http://images.amazon.com/images/P/0943233437.01.MZZZZZZZ.jpg
+0670891576,37,4.054054054054054,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,2000,Penguin Putnam,http://images.amazon.com/images/P/0670891576.01.MZZZZZZZ.jpg
+0312275420,37,4.783783783783784,Being Dead : A Novel,Jim Crace,2001,Picador,http://images.amazon.com/images/P/0312275420.01.MZZZZZZZ.jpg
+1853261580,37,4.837837837837838,The Little Prince (Wordsworth Collection),Antoine de Saint-ExupÃ©ry,1998,NTC/Contemporary Publishing Company,http://images.amazon.com/images/P/1853261580.01.MZZZZZZZ.jpg
+0688163173,37,4.837837837837838,Shutter Island: A Novel,Dennis Lehane,2003,William Morrow,http://images.amazon.com/images/P/0688163173.01.MZZZZZZZ.jpg
+0345418018,37,4.108108108108108,The World According to Garp (Ballantine Reader's Circle),John Irving,1997,Ballantine Books,http://images.amazon.com/images/P/0345418018.01.MZZZZZZZ.jpg
+0679454470,37,4.054054054054054,"The Vampire Armand : The Vampire Chronicles (Rice, Anne, Vampire Chronicles)",Anne Rice,1998,Alfred A. Knopf,http://images.amazon.com/images/P/0679454470.01.MZZZZZZZ.jpg
+0553351397,37,4.486486486486487,Peace Is Every Step: The Path of Mindfulness in Everyday Life,Thich Nhat Hahn,1992,Random House,http://images.amazon.com/images/P/0553351397.01.MZZZZZZZ.jpg
+0441004326,37,4.162162162162162,"Archangel (Samaria Trilogy, Book 1)",Sharon Shinn,1997,Ace Books,http://images.amazon.com/images/P/0441004326.01.MZZZZZZZ.jpg
+0767903854,37,4.54054054054054,In a Sunburned Country,Bill Bryson,2000,Broadway Books,http://images.amazon.com/images/P/0767903854.01.MZZZZZZZ.jpg
+0743236742,37,4.918918918918919,The Ultimate Weight Solution: The 7 Keys to Weight Loss Freedom,Phil McGraw,2003,Free Press,http://images.amazon.com/images/P/0743236742.01.MZZZZZZZ.jpg
+0140328696,37,4.594594594594595,Charlie and the Chocolate Factory,Roald Dahl,1994,Puffin Books,http://images.amazon.com/images/P/0140328696.01.MZZZZZZZ.jpg
+0375701214,37,4.891891891891892,The Diving Bell and the Butterfly : A Memoir of Life in Death,JEAN-DOMINIQUE BAUBY,1998,Vintage,http://images.amazon.com/images/P/0375701214.01.MZZZZZZZ.jpg
+0064471063,37,6.216216216216216,The Horse and His Boy,C. S. Lewis,1994,HarperCollins,http://images.amazon.com/images/P/0064471063.01.MZZZZZZZ.jpg
+0811811409,37,4.351351351351352,"The Venetian's Wife: A Strangely Sensual Tale of a Renaissance Explorer, a Computer, and a Metamorphosis",Nick Bantock,1996,Chronicle Books,http://images.amazon.com/images/P/0811811409.01.MZZZZZZZ.jpg
+0836218787,37,5.918918918918919,Scientific Progress Goes 'Boink':  A Calvin and Hobbes Collection,Bill Watterson,1991,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218787.01.MZZZZZZZ.jpg
+0609809547,37,4.8108108108108105,Tales of a Female Nomad: Living at Large in the World,Rita Golden Gelman,2002,Three Rivers Press (CA),http://images.amazon.com/images/P/0609809547.01.MZZZZZZZ.jpg
+0140345353,37,4.513513513513513,The Devil's Arithmetic,Jane Yolen,1990,Puffin Books,http://images.amazon.com/images/P/0140345353.01.MZZZZZZZ.jpg
+0064471055,37,5.081081081081081,Prince Caspian (rack) : The Return to Narnia (Narnia),C. S. Lewis,1994,HarperCollins,http://images.amazon.com/images/P/0064471055.01.MZZZZZZZ.jpg
+3442092981,36,4.722222222222222,Felidae. Roman.,Akif Pirincci,1989,Goldmann,http://images.amazon.com/images/P/3442092981.01.MZZZZZZZ.jpg
+0517149257,36,5.527777777777778,The Ultimate Hitchhiker's Guide,Douglas Adams,1996,Random House Value Publishing,http://images.amazon.com/images/P/0517149257.01.MZZZZZZZ.jpg
+0679886370,36,5.027777777777778,Stargirl,JERRY SPINELLI,2000,Knopf Books for Young Readers,http://images.amazon.com/images/P/0679886370.01.MZZZZZZZ.jpg
+0743225422,36,4.944444444444445,The Shipping News : A Novel,Annie Proulx,2001,Scribner,http://images.amazon.com/images/P/0743225422.01.MZZZZZZZ.jpg
+0836218817,36,4.138888888888889,Unnatural Selections,Gary Larson,1991,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218817.01.MZZZZZZZ.jpg
+051513449X,36,4.472222222222222,Guilty Pleasures (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,1995,Jove Books,http://images.amazon.com/images/P/051513449X.01.MZZZZZZZ.jpg
+0385507607,36,4.75,The Probable Future,ALICE HOFFMAN,2003,Doubleday,http://images.amazon.com/images/P/0385507607.01.MZZZZZZZ.jpg
+0836218833,36,4.75,Attack Of The Deranged Mutant Killer Snow Goons,Bill Watterson,1992,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218833.01.MZZZZZZZ.jpg
+0920668372,36,6.444444444444445,Love You Forever,Robert N. Munsch,1986,Firefly Books Ltd,http://images.amazon.com/images/P/0920668372.01.MZZZZZZZ.jpg
+0525945725,36,4.5,The Darwin Awards: Evolution in Action,Wendy Northcutt,2000,Dutton Books,http://images.amazon.com/images/P/0525945725.01.MZZZZZZZ.jpg
+0743237196,36,4.694444444444445,Fall on Your Knees,Ann-Marie MacDonald,2002,Simon &amp; Schuster,http://images.amazon.com/images/P/0743237196.01.MZZZZZZZ.jpg
+0811802981,36,5.944444444444445,The Golden Mean: In Which the Extraordinary Correspondence of Griffin &amp; Sabine Concludes,Nick Bantock,1993,Chronicle Books,http://images.amazon.com/images/P/0811802981.01.MZZZZZZZ.jpg
+0064408655,36,4.166666666666667,"The Vile Village (A Series of Unfortunate Events, Book 7)",Lemony Snicket,2001,HarperCollins,http://images.amazon.com/images/P/0064408655.01.MZZZZZZZ.jpg
+0749309423,36,4.694444444444445,The Silence of the Lambs,Thomas Harris,1991,Mandarin,http://images.amazon.com/images/P/0749309423.01.MZZZZZZZ.jpg
+0156012197,36,6.0,The Little Prince,Antoine de Saint-ExupÃ©ry,2000,Harvest Books,http://images.amazon.com/images/P/0156012197.01.MZZZZZZZ.jpg
+0375705171,36,4.583333333333333,Trans-Sister Radio (Vintage Contemporaries (Paperback)),CHRIS BOHJALIAN,2001,Vintage,http://images.amazon.com/images/P/0375705171.01.MZZZZZZZ.jpg
+0064409422,36,4.416666666666667,"The Lion, the Witch and the Wardrobe (Full-Color Collector's Edition)",C. S. Lewis,2000,HarperTrophy,http://images.amazon.com/images/P/0064409422.01.MZZZZZZZ.jpg
+0451099648,36,4.138888888888889,Firestarter (Signet Book),Stephen King,1981,New Amer Library,http://images.amazon.com/images/P/0451099648.01.MZZZZZZZ.jpg
+3596259924,35,4.9714285714285715,Die Unertragliche Leichtigkeit des Seins...The Unbearable Lightness of Being,Milan Kundera,1997,Distribooks Inc,http://images.amazon.com/images/P/3596259924.01.MZZZZZZZ.jpg
+0446601977,35,4.742857142857143,Parable of the Sower,Octavia E. Butler,1995,Warner Books,http://images.amazon.com/images/P/0446601977.01.MZZZZZZZ.jpg
+0553255762,35,4.171428571428572,Maya Angelou: Poems,MAYA ANGELOU,1996,Bantam,http://images.amazon.com/images/P/0553255762.01.MZZZZZZZ.jpg
+0689710682,35,4.0285714285714285,Mrs. Frisby and the Rats of Nimh,Robert C. O'Brien,1986,Aladdin,http://images.amazon.com/images/P/0689710682.01.MZZZZZZZ.jpg
+0553573314,35,4.2,The Diamond Age,Neal Stephenson,1996,Bantam,http://images.amazon.com/images/P/0553573314.01.MZZZZZZZ.jpg
+0743222229,35,4.742857142857143,George W. Bushisms : The Slate Book of The Accidental Wit and Wisdom of our 43rd President,Jacob Weisberg,2001,Fireside,http://images.amazon.com/images/P/0743222229.01.MZZZZZZZ.jpg
+0060934700,35,4.057142857142857,Smoke and Mirrors: Short Fictions and Illusions,Neil Gaiman,2001,Perennial,http://images.amazon.com/images/P/0060934700.01.MZZZZZZZ.jpg
+3404118960,35,4.885714285714286,Die SÃ?Â¤ulen der Erde. Roman.,Ken Follett,1992,LÃ?Â¼bbe,http://images.amazon.com/images/P/3404118960.01.MZZZZZZZ.jpg
+0345318854,35,4.3428571428571425,With a Tangled Skein (Incarnations of Immortality (Paperback)),PIERS ANTHONY,1986,Del Rey,http://images.amazon.com/images/P/0345318854.01.MZZZZZZZ.jpg
+074320607X,35,4.228571428571429,"Nighttime Is My Time (Clark, Mary Higgins)",Mary Higgins Clark,2004,Simon &amp; Schuster,http://images.amazon.com/images/P/074320607X.01.MZZZZZZZ.jpg
+1400060737,35,4.114285714285714,The Birth of Venus,Sarah Dunant,2004,Random House,http://images.amazon.com/images/P/1400060737.01.MZZZZZZZ.jpg
+0486284735,35,4.257142857142857,Pride and Prejudice (Dover Thrift Editions),Jane Austen,1995,Dover Publications,http://images.amazon.com/images/P/0486284735.01.MZZZZZZZ.jpg
+0553580302,35,4.228571428571429,"House Harkonnen (Dune: House Trilogy, Book 2)",Brian Herbert,2001,Spectra Books,http://images.amazon.com/images/P/0553580302.01.MZZZZZZZ.jpg
+0836218221,35,5.485714285714286,The Authoritative Calvin and Hobbes (Calvin and Hobbes),Bill Watterson,1990,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218221.01.MZZZZZZZ.jpg
+0671524313,35,4.371428571428571,The Girlfriends' Guide to Pregnancy,Vicki Iovine,1995,Pocket,http://images.amazon.com/images/P/0671524313.01.MZZZZZZZ.jpg
+1579546463,35,4.485714285714286,"The South Beach Diet: The Delicious, Doctor-Designed, Foolproof Plan for Fast and Healthy Weight Loss",Arthur Agatston,2003,Rodale Books,http://images.amazon.com/images/P/1579546463.01.MZZZZZZZ.jpg
+0786866020,35,4.742857142857143,Fish! A Remarkable Way to Boost Morale and Improve Results,Stephen C. Lundin,2000,Hyperion,http://images.amazon.com/images/P/0786866020.01.MZZZZZZZ.jpg
+0060256656,35,5.571428571428571,The Giving Tree,Shel Silverstein,1964,HarperCollins Publishers,http://images.amazon.com/images/P/0060256656.01.MZZZZZZZ.jpg
+0064408647,35,4.3428571428571425,"The Ersatz Elevator (A Series of Unfortunate Events, Book 6)",Lemony Snicket,2001,HarperCollins,http://images.amazon.com/images/P/0064408647.01.MZZZZZZZ.jpg
+0671721291,35,4.171428571428572,The Ship Who Searched,Anne McCaffrey,1992,Baen,http://images.amazon.com/images/P/0671721291.01.MZZZZZZZ.jpg
+185326086X,35,4.057142857142857,Dracula (Wordsworth Classics),B. Stoker,1997,NTC/Contemporary Publishing Company,http://images.amazon.com/images/P/185326086X.01.MZZZZZZZ.jpg
+2253063339,35,4.828571428571428,Les Fourmis,Bernard Werber,2002,LGF,http://images.amazon.com/images/P/2253063339.01.MZZZZZZZ.jpg
+0060256737,35,5.685714285714286,A Light in the Attic,Shel Silverstein,1981,HarperCollins,http://images.amazon.com/images/P/0060256737.01.MZZZZZZZ.jpg
+0064400050,35,4.142857142857143,By the Shores of Silver Lake (Little House),Laura Ingalls Wilder,1953,HarperTrophy,http://images.amazon.com/images/P/0064400050.01.MZZZZZZZ.jpg
+0312050631,34,4.411764705882353,Confessions of a Failed Southern Lady,Florence King,1990,St. Martin's Press,http://images.amazon.com/images/P/0312050631.01.MZZZZZZZ.jpg
+0671032992,34,4.411764705882353,Heartbreaker,Julie Garwood,2000,Atria,http://images.amazon.com/images/P/0671032992.01.MZZZZZZZ.jpg
+0375507493,34,4.617647058823529,What Should I Do with My Life?,PO BRONSON,2002,Random House,http://images.amazon.com/images/P/0375507493.01.MZZZZZZZ.jpg
+0345409469,34,5.088235294117647,The Demon-Haunted World: Science As a Candle in the Dark,Carl Sagan,1997,Ballantine Books,http://images.amazon.com/images/P/0345409469.01.MZZZZZZZ.jpg
+3453007867,34,4.264705882352941,Friedhof der Kuscheltiere. Roman.,Stephen King,1988,Heyne,http://images.amazon.com/images/P/3453007867.01.MZZZZZZZ.jpg
+006093090X,34,4.117647058823529,The Night Listener : A Novel,Armistead Maupin,2001,Perennial,http://images.amazon.com/images/P/006093090X.01.MZZZZZZZ.jpg
+0385475772,34,4.617647058823529,Nine Parts of Desire: The Hidden World of Islamic Women,Geraldine Brooks,1996,Anchor Books/Doubleday,http://images.amazon.com/images/P/0385475772.01.MZZZZZZZ.jpg
+0425173755,34,4.617647058823529,Murder on the Orient Express (Hercule Poirot Mysteries (Paperback)),Agatha Christie,2000,Berkley Publishing Group,http://images.amazon.com/images/P/0425173755.01.MZZZZZZZ.jpg
+0786808551,34,6.088235294117647,"The Arctic Incident (Artemis Fowl, Book 2)",Eoin Colfer,2002,Miramax Kids,http://images.amazon.com/images/P/0786808551.01.MZZZZZZZ.jpg
+0451456718,34,5.470588235294118,Daughter of the Blood (Black Jewels Trilogy),Anne Bishop,1998,Roc,http://images.amazon.com/images/P/0451456718.01.MZZZZZZZ.jpg
+0684859718,34,4.382352941176471,Deadly Decisions,Kathy Reichs,2000,Scribner,http://images.amazon.com/images/P/0684859718.01.MZZZZZZZ.jpg
+0525945210,34,5.0588235294117645,A Man Named Dave: A Story of Triumph and Forgiveness,David J. Pelzer,1999,Dutton Books,http://images.amazon.com/images/P/0525945210.01.MZZZZZZZ.jpg
+0812533054,34,4.235294117647059,"Seventh Son (Tales of Alvin Maker, Book 1)",Orson Scott Card,1993,Tor Fantasy,http://images.amazon.com/images/P/0812533054.01.MZZZZZZZ.jpg
+0670031046,34,4.029411764705882,In This Mountain,Jan Karon,2002,Viking Books,http://images.amazon.com/images/P/0670031046.01.MZZZZZZZ.jpg
+0446358576,34,4.029411764705882,Cathedral,Nelson DeMille,1990,Warner Books,http://images.amazon.com/images/P/0446358576.01.MZZZZZZZ.jpg
+0836217012,33,4.363636363636363,Cows Of Our Planet (Far Side Series),Gary Larson,1992,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836217012.01.MZZZZZZZ.jpg
+0836217691,33,5.666666666666667,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection,Bill Watterson,1994,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836217691.01.MZZZZZZZ.jpg
+0553579908,33,4.909090909090909,"A Clash of Kings (A Song of Fire and Ice, Book 2)",George R. R. Martin,2000,Spectra Books,http://images.amazon.com/images/P/0553579908.01.MZZZZZZZ.jpg
+0836218353,33,5.393939393939394,Yukon Ho!,Bill Watterson,1989,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218353.01.MZZZZZZZ.jpg
+0375411992,33,4.424242424242424,Blackwood Farm (The Vampire Chronicles),Anne Rice,2002,Alfred A. Knopf,http://images.amazon.com/images/P/0375411992.01.MZZZZZZZ.jpg
+0553583573,33,4.0606060606060606,Dark Horse,TAMI HOAG,2004,Bantam,http://images.amazon.com/images/P/0553583573.01.MZZZZZZZ.jpg
+0688171877,33,4.181818181818182,"Ahab's Wife: Or, The Star-Gazer: A Novel",Sena Jeter Naslund,1999,William Morrow,http://images.amazon.com/images/P/0688171877.01.MZZZZZZZ.jpg
+0099521016,33,4.303030303030303,Midnight In the Garden of Good and Evil,John Berendt,0,Vintage Books,http://images.amazon.com/images/P/0099521016.01.MZZZZZZZ.jpg
+0425192032,33,4.575757575757576,Lightning,Dean Koontz,2003,Berkley,http://images.amazon.com/images/P/0425192032.01.MZZZZZZZ.jpg
+1400030927,33,4.454545454545454,Jennifer Government,MAX BARRY,2004,Vintage,http://images.amazon.com/images/P/1400030927.01.MZZZZZZZ.jpg
+0399135782,33,4.212121212121212,The Kitchen God's Wife,Amy Tan,1991,Putnam Pub Group,http://images.amazon.com/images/P/0399135782.01.MZZZZZZZ.jpg
+0671507036,33,4.393939393939394,Montana 1948 : Montana 1948,Larry Watson,1995,Washington Square Press,http://images.amazon.com/images/P/0671507036.01.MZZZZZZZ.jpg
+0345322231,33,4.333333333333333,Being a Green Mother (Incarnations of Immortality (Paperback)),Piers Anthony,1990,Del Rey Books,http://images.amazon.com/images/P/0345322231.01.MZZZZZZZ.jpg
+0345442768,33,4.151515151515151,Swimming (Ballantine Reader's Circle),Joanna Hershon,2002,Ballantine Books,http://images.amazon.com/images/P/0345442768.01.MZZZZZZZ.jpg
+0060194448,33,4.9393939393939394,The Wailing Wind,Tony Hillerman,2002,HarperCollins Publishers,http://images.amazon.com/images/P/0060194448.01.MZZZZZZZ.jpg
+0553107305,33,4.090909090909091,Chopping Spree,DIANE MOTT DAVIDSON,2002,Bantam,http://images.amazon.com/images/P/0553107305.01.MZZZZZZZ.jpg
+0060256672,33,7.121212121212121,Where the Sidewalk Ends : Poems and Drawings,Shel Silverstein,1974,HarperCollins,http://images.amazon.com/images/P/0060256672.01.MZZZZZZZ.jpg
+0553380958,33,5.151515151515151,Snow Crash (Bantam Spectra Book),NEAL STEPHENSON,2000,Bantam,http://images.amazon.com/images/P/0553380958.01.MZZZZZZZ.jpg
+0684856093,33,4.606060606060606,The 7 Habits Of Highly Effective Teens,Sean Covey,1998,Fireside,http://images.amazon.com/images/P/0684856093.01.MZZZZZZZ.jpg
+0345253736,32,4.03125,White Dragon,Anne Mccaffrey,1979,Ballantine Books,http://images.amazon.com/images/P/0345253736.01.MZZZZZZZ.jpg
+0312977026,32,4.71875,K-Pax,Gene Brewer,2001,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312977026.01.MZZZZZZZ.jpg
+0440539811,32,4.03125,"The Illuminatus Trilogy: The Eye in the Pyramid, the Golden Apple &amp; Leviathan",Robert Shea,1984,Dell Publishing Company,http://images.amazon.com/images/P/0440539811.01.MZZZZZZZ.jpg
+0316316962,32,5.09375,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,"Little, Brown",http://images.amazon.com/images/P/0316316962.01.MZZZZZZZ.jpg
+0696217120,32,4.03125,Trading Spaces Behind the Scenes: Including Decorating Tips and Tricks,Brian Kramer,2003,Meredith Books,http://images.amazon.com/images/P/0696217120.01.MZZZZZZZ.jpg
+0684826976,32,4.125,Undaunted Courage: Meriwether Lewis Thomas Jefferson and the Opening of the American West,Stephen Ambrose,1997,Simon &amp; Schuster,http://images.amazon.com/images/P/0684826976.01.MZZZZZZZ.jpg
+0316710571,32,5.1875,Sam's Letters to Jennifer,James Patterson,2004,"Little, Brown",http://images.amazon.com/images/P/0316710571.01.MZZZZZZZ.jpg
+0345368991,32,4.21875,The Chronicles of Pern: 1st Fall (The Dragonriders of Pern),Anne McCaffrey,1994,Del Rey Books,http://images.amazon.com/images/P/0345368991.01.MZZZZZZZ.jpg
+044100069X,32,4.78125,Deerskin,Robin McKinley,1994,Ace Books,http://images.amazon.com/images/P/044100069X.01.MZZZZZZZ.jpg
+087542791X,32,4.46875,To Ride a Silver Broomstick: New Generation Witchcraft,Silver Ravenwolf,1993,Llewellyn Publications,http://images.amazon.com/images/P/087542791X.01.MZZZZZZZ.jpg
+3423202947,32,5.1875,Hunde von Riga.,Henning Mankell,2000,Dtv,http://images.amazon.com/images/P/3423202947.01.MZZZZZZZ.jpg
+0836218256,32,4.75,Something Under the Bed Is Drooling,Bill Watterson,1988,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218256.01.MZZZZZZZ.jpg
+0451210158,32,4.0625,Dirty Work (Stone Barrington Novels (Paperback)),Stuart Woods,2003,Signet Book,http://images.amazon.com/images/P/0451210158.01.MZZZZZZZ.jpg
+0553274325,32,6.75,Johnny Got His Gun,Dalton Trumbo,1983,Bantam Books,http://images.amazon.com/images/P/0553274325.01.MZZZZZZZ.jpg
+2253150711,32,5.5,Stupeur Et Tremblements,Amelie Nothomb,2001,Distribooks,http://images.amazon.com/images/P/2253150711.01.MZZZZZZZ.jpg
+0399146113,32,5.0625,It's Not About the Bike: My Journey Back to Life,Lance Armstrong,2000,Penguin Putnam,http://images.amazon.com/images/P/0399146113.01.MZZZZZZZ.jpg
+0743247612,32,4.65625,The Funny Thing Is...,Ellen DeGeneres,2003,Simon &amp; Schuster,http://images.amazon.com/images/P/0743247612.01.MZZZZZZZ.jpg
+0679426140,32,5.15625,"Welcome to the World, Baby Girl! : A Novel",FANNIE FLAGG,1998,Random House,http://images.amazon.com/images/P/0679426140.01.MZZZZZZZ.jpg
+1558745432,32,4.6875,A 5th Portion of Chicken Soup for the Soul : 101 Stories to Open the Heart and Rekindle the Spirit,Jack Canfield,1998,Health Communications,http://images.amazon.com/images/P/1558745432.01.MZZZZZZZ.jpg
+8845205118,32,5.6875,Il Piccolo Principe Prince Italn,Antoine de Saint-ExupÃ©ry,0,Bompiani Italian,http://images.amazon.com/images/P/8845205118.01.MZZZZZZZ.jpg
+0743222008,32,4.59375,The Vanished Man : A Lincoln Rhyme Novel,Jeffery Deaver,2003,Simon &amp; Schuster,http://images.amazon.com/images/P/0743222008.01.MZZZZZZZ.jpg
+0441328091,32,4.03125,The Hero and the Crown,Robin McKinley,1989,ACE Charter,http://images.amazon.com/images/P/0441328091.01.MZZZZZZZ.jpg
+0786915749,31,5.612903225806452,Dragons of Autumn Twilight (Dragonlance: Dragonlance Chronicles),Margaret Weis,2000,Wizards of the Coast,http://images.amazon.com/images/P/0786915749.01.MZZZZZZZ.jpg
+055329024X,31,4.612903225806452,Earth,David Brin,1991,Spectra Books,http://images.amazon.com/images/P/055329024X.01.MZZZZZZZ.jpg
+0811824829,31,4.903225806451613,52 Deck Series: 52 Ways to Celebrate Friendship,Lynn Gordon,2000,Chronicle Books,http://images.amazon.com/images/P/0811824829.01.MZZZZZZZ.jpg
+0836218051,31,5.774193548387097,The Essential Calvin and Hobbes,Bill Watterson,1988,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836218051.01.MZZZZZZZ.jpg
+0836217241,31,4.806451612903226,The Far Side Gallery 4,Gary Larson,1993,Andrews McMeel Publishing,http://images.amazon.com/images/P/0836217241.01.MZZZZZZZ.jpg
+0399149821,31,4.806451612903226,Dirty Work,Stuart Woods,2003,Putnam Publishing Group,http://images.amazon.com/images/P/0399149821.01.MZZZZZZZ.jpg
+0446692298,31,4.387096774193548,Fat Girls and Lawn Chairs,Cheryl Peck,2004,Warner Books,http://images.amazon.com/images/P/0446692298.01.MZZZZZZZ.jpg
+8408043641,31,5.096774193548387,La Sombra Del Viento/The Shadow Of The Wind,Carlos Ruiz Zafon,2003,Planeta Pub Corp,http://images.amazon.com/images/P/8408043641.01.MZZZZZZZ.jpg
+0380978407,31,5.225806451612903,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,2002,William Morrow &amp; Company,http://images.amazon.com/images/P/0380978407.01.MZZZZZZZ.jpg

@@ -1,0 +1,4 @@
+venv
+notebooks/.ipynb_checkpoints
+notebooks/data
+artifacts/.ipynb_checkpoints
