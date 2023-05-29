@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+
 similarity = pickle.load(open('artifacts/similarity.pkl','rb'))
 final_ratings = pd.read_csv('artifacts/final_ratings.csv')
 popular_books = pd.read_csv('artifacts/popular_books.csv')
@@ -14,13 +15,10 @@ popular_books = popular_books[['title', 'author', 'year', 'Image-URL-M','num_rat
 def recommend(book_name):
     """
     Recommends top related books based on a given book.
-
     Args:
         book_name (str): The name of the book.
-
     Returns:
         list: A list of recommended books, each represented as a list containing the title, author, year, and image URL.
-
     """
     index = np.where(book_pivot.index == book_name)[0][0]
     top_related_books = sorted(list(enumerate(similarity[index])), reverse=True, key=lambda x: x[1])[:6]
@@ -47,11 +45,9 @@ def load_recommendation():
 
         for i in range(6):
             cols[i].image(recommended_books[i][3])
-            #cols[i].write(f"<b>Title:</b> {recommended_books[i][0]}", unsafe_allow_html=True)
             cols[i].write(f"**{recommended_books[i][0]}**")  #title
-            cols[i].write(f"({recommended_books[i][2]})") #year
-
-            cols[i].write(f" by<br> **{recommended_books[i][1]}**", unsafe_allow_html=True)
+            cols[i].write(f" by: **{recommended_books[i][1]}**", unsafe_allow_html=True)
+            #cols[i].write(f"({recommended_books[i][2]})") #year
 
 
 
@@ -76,9 +72,10 @@ def load_popular_books():
                 with col:
                     col.image(popular_books_list[book_index][3])
                     col.markdown(f"**{popular_books_list[book_index][0]}**")  # title
-                    col.write(f"(Publication Year: {popular_books_list[book_index][2]})")  # year
-                    col.markdown(f"Total Ratings: {popular_books_list[book_index][4]}")
-                    col.write(f" by<br> **{popular_books_list[book_index][1]}**", unsafe_allow_html=True)
+                    
+                    #col.markdown(f"Total Ratings: {popular_books_list[book_index][4]}")
+                    col.write(f" by: **{popular_books_list[book_index][1]}**", unsafe_allow_html=True)
+                    #col.write(f"(Publication Year: {popular_books_list[book_index][2]})")  # year
             else:
                 break
 
